@@ -5,7 +5,8 @@
 My name is John. I am a **digital creator**, a self-employed **software engineer**, a **cinematographer**, and most importantly, a full-time **high school student**.
 
 ![John Seong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wonmor&show_icons=true&theme=dracula)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wonmor)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wonmor)](https://github.com/anuraghazra/github-readme-stats&theme=dracula)
 
 ---
 
