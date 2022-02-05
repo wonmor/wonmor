@@ -3,6 +3,7 @@
 ### *Currently in a near-rectilinear halo orbit.*
 
 My name is John. I am a **digital creator**, a self-employed **software engineer**, a **cinematographer**, and most importantly, a full-time **high school student**.
+[![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wonmor)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
