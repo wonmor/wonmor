@@ -10,10 +10,4 @@ My name is John. I am a **digital creator**, a self-employed **software engineer
 
 # Links :shit:
 
-[Official Website](https://johnseong.info)
-
-[LinkedIn](https://www.linkedin.com/in/john-seong-9194321a9/)
-
-[YouTube](https://youtube.com/c/JohnSeong)
-
-[Flickr](https://www.flickr.com/people/johnseongemini8/)
+[Official Website](https://johnseong.info)&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/john-seong-9194321a9/)&nbsp;&nbsp;&nbsp;[YouTube](https://youtube.com/c/JohnSeong)&nbsp;&nbsp;&nbsp;[Flickr](https://www.flickr.com/people/johnseongemini8/)
