@@ -8,8 +8,6 @@ My name is John. I am a **digital creator**, a self-employed **software engineer
 
 ---
 
-# Biography :smiling_imp:
-
 ### Digital Creator
 One positive effect of the non-conventional nature of me is the spark I have had ever since I was a young boy. It is like an uncontrollable wildfire where I absolutely have to sit down and sketch something whenever I have this unbelievable amount of energy — a burst of neurotransmitters — that flows through the neural pathways in my brain, fueling my overwhelming passion for astrophysics, philosophy, computer science, and cinematography.
 
