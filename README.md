@@ -15,14 +15,12 @@ One positive effect of the non-conventional nature of me is the spark I have had
 
 ![IMG_1682](https://user-images.githubusercontent.com/35755386/153048922-1a157de1-711b-43a2-bec6-7160fa34a846.jpg)
 
-
 ### Programmer
 I was a self-taught Android developer who mostly created web-based apps through Android Studio. The first app I made was a benchmark app that assesses the performance of the Wi-Fi router that the device is connected with, based upon its upload & download speed as well as the link speed. (While the link speed is completely an irrelevant factor, I somehow thought it was important so I included it) As I was passionate about graphic design from a very young age as well, I tried my best to make it the most visually appealing benchmark app in the market in comparison to the major competitors such as GeekBench.
 
 *Available on [Google Play](https://play.google.com/store/apps/details?id=com.studiohorizon.wipi&hl=en_CA&gl=US)*
 
 ![Capture](https://user-images.githubusercontent.com/35755386/153048586-8342fd63-7f11-47ae-bda2-27f5bb7dfebc.PNG)
-
 
 ### Math & Physics Enthusiast
 The idea of learning Calculus and Linear Algebra often tends to intimidate many high school students, especially those in their senior year, before taking it in school as a course. I, too, was in the same boat, in the sense that the first time I opened the AP Cal BC textbook, I could only see scribbles and white background, which did not make sense whatsoever. In addition, my mathematical knowledge was rudimentary in the sense that I have not done much mathematics outside of school as an extracurricular, mostly finding it as a subject that I could pass without having many difficulties. It was the September of 2021, however, when I first got into the art of differentiation and integration. My overwhelming passion for Calculus and Linear Algebra started when I first saw the integral sign on a blog article that introduced the basics of Quantum Mechanics, which was one of the other areas I was interested in. The peculiarly shaped brackets that surrounded the number or a sign, the bra-ket notation, combined with matrices and vectors that each represented a quantum state and a gate, fueled my emerging curiosity that later developed into a much more mature form: which is where I am standing right now as a potential math major student. It was the moment I realized that most of my worldview and reality are primarily based upon my internal beliefs, that all of my passions are my creations, and my existence itself is a construct.
