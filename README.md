@@ -1,4 +1,4 @@
-# Welcome Nerds 🤓
+# Welcome Nerds.
 
 ### [*Currently in a near-rectilinear halo orbit.*](https://github.com/wonmor)
 
@@ -31,7 +31,7 @@ The idea of learning Calculus and Linear Algebra often tends to intimidate many 
 
 ---
 
-# Featured Project :alien:
+# Featured Project
 
 ### [First Principles: An Interactive Module](https://github.com/GameGenesis/First-Principles)
 
@@ -43,7 +43,7 @@ A puzzle game that visualizes the nature of a curve and its corresponding deriva
 
 ---
 
-# Links :shit:
+# Links
 
 ### [Portfolio](https://johnseong.info/projects)&nbsp;•&nbsp;[LinkedIn](https://www.linkedin.com/in/john-seong-9194321a9/)&nbsp;•&nbsp;[YouTube](https://youtube.com/c/JohnSeong)&nbsp;•&nbsp;[Flickr](https://www.flickr.com/people/johnseongemini8/)
 
