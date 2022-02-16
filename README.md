@@ -1,4 +1,4 @@
-# Welcome Nerds.
+# Welcome Nerds
 
 ### [*Currently in a near-rectilinear halo orbit.*](https://github.com/wonmor)
 
