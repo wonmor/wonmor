@@ -43,7 +43,7 @@ The idea of learning Calculus and Linear Algebra often tends to intimidate many 
 
 ### [First Principles: An Interactive Module](https://github.com/GameGenesis/First-Principles)
 
-[Official Documentation](https://github.com/GameGenesis/First-Principles/wiki/First-Principles-Official-Documentation) • [Watch the Promotional Video](https://www.youtube.com/watch?v=k0soEFAK-CQ) • [Developer's Message](https://www.youtube.com/watch?v=yo540yl4Xhs)
+[Official Documentation](https://github.com/GameGenesis/First-Principles/wiki/First-Principles-Official-Documentation) • [Watch the Promotional Video](https://www.youtube.com/watch?v=k0soEFAK-CQ) • [Live Demo](https://www.youtube.com/watch?v=yo540yl4Xhs)
 
 ---
 
