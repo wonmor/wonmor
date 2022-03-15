@@ -8,6 +8,16 @@ My name is John. I am a **digital creator**, a self-employed **software engineer
 
 ---
 
+# Links
+
+### [Portfolio](https://johnseong.info/projects)&nbsp;•&nbsp;[LinkedIn](https://www.linkedin.com/in/john-seong-9194321a9/)&nbsp;•&nbsp;[YouTube](https://youtube.com/c/JohnSeong)&nbsp;•&nbsp;[Flickr](https://www.flickr.com/people/johnseongemini8/)&nbsp;•&nbsp;[Google Play](https://play.google.com/store/apps/developer?id=John+Seong&hl=en_CA&gl=US)&nbsp;•&nbsp;[Arduino Project Hub](https://create.arduino.cc/projecthub/wonmor)
+
+"One positive effect of the non-conventional nature of me is the spark I have had ever since I was a young boy. It is like an uncontrollable wildfire where I absolutely have to sit down and sketch something whenever I have this unbelievable amount of energy — a burst of neurotransmitters — that flows through the neural pathways in my brain, fueling my overwhelming passion for **astrophysics**, **philosophy**, **computer science**, and **cinematography**."
+
+*– John Seong, Sept. 1, 2021.*
+
+---
+
 ### Digital Creator
 One positive effect of the non-conventional nature of me is the spark I have had ever since I was a young boy. It is like an uncontrollable wildfire where I absolutely have to sit down and sketch something whenever I have this unbelievable amount of energy — a burst of neurotransmitters — that flows through the neural pathways in my brain, fueling my overwhelming passion for astrophysics, philosophy, computer science, and cinematography.
 
@@ -52,13 +62,3 @@ A puzzle game that visualizes the nature of a curve and its corresponding deriva
 <img width="1728" alt="Screen Shot 2022-03-15 at 2 57 39 PM" src="https://user-images.githubusercontent.com/35755386/158451505-71e056ee-cca4-42ee-a621-38c092c806f2.png">
 
 <img width="1728" alt="Screen Shot 2022-03-15 at 2 57 31 PM" src="https://user-images.githubusercontent.com/35755386/158451522-61e0c14c-57c3-4819-b023-b7d7c13075aa.png">
-
----
-
-# Links
-
-### [Portfolio](https://johnseong.info/projects)&nbsp;•&nbsp;[LinkedIn](https://www.linkedin.com/in/john-seong-9194321a9/)&nbsp;•&nbsp;[YouTube](https://youtube.com/c/JohnSeong)&nbsp;•&nbsp;[Flickr](https://www.flickr.com/people/johnseongemini8/)&nbsp;•&nbsp;[Google Play](https://play.google.com/store/apps/developer?id=John+Seong&hl=en_CA&gl=US)&nbsp;•&nbsp;[Arduino Project Hub](https://create.arduino.cc/projecthub/wonmor)
-
-"One positive effect of the non-conventional nature of me is the spark I have had ever since I was a young boy. It is like an uncontrollable wildfire where I absolutely have to sit down and sketch something whenever I have this unbelievable amount of energy — a burst of neurotransmitters — that flows through the neural pathways in my brain, fueling my overwhelming passion for **astrophysics**, **philosophy**, **computer science**, and **cinematography**."
-
-*– John Seong, Sept. 1, 2021.*
