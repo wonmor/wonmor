@@ -24,7 +24,7 @@ One positive effect of the non-conventional nature of me is the spark I have had
 ![IMG_1682](https://user-images.githubusercontent.com/35755386/153048922-1a157de1-711b-43a2-bec6-7160fa34a846.jpg)
 
 ### Software Developer
-I was a self-taught Android developer who mostly created web-based apps through Android Studio. The first app I made was a benchmark app that assesses the performance of the Wi-Fi router that the device is connected with, based upon its upload & download speed as well as the link speed. (While the link speed is completely an irrelevant factor, I somehow thought it was important so I included it) As I was passionate about graphic design from a very young age as well, I tried my best to make it the most visually appealing benchmark app in the market in comparison to the major competitors such as GeekBench.
+I released my first Android app on Google Play Store when I was thirteen. I was a self-taught Android developer who mostly created web-based apps through Android Studio. The first app I made was a benchmark app that assesses the performance of the Wi-Fi router that the device is connected with, based upon its upload & download speed as well as the link speed. (While the link speed is completely an irrelevant factor, I somehow thought it was important so I included it) As I was passionate about graphic design from a very young age as well, I tried my best to make it the most visually appealing benchmark app in the market in comparison to the major competitors such as GeekBench.
 
 *Available on [Google Play](https://play.google.com/store/apps/details?id=com.studiohorizon.wipi&hl=en_CA&gl=US)*
 
