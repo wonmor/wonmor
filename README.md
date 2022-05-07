@@ -16,5 +16,5 @@ My name is John. I am a **digital creator**, a self-employed **software engineer
 
 ---
 
-- A proud build team member of First Robotics Canada's [Team 5409](https://sites.google.com/hdsb.ca/garthwebrobotics/home). Let's go [Garth Webb Chargers](https://gws.hdsb.ca)! 
-- Excited to take part in this year's [SHAD](https://www.shad.ca)! It is a nationally recognized annual Canadian summer enrichment program for high-achieving high school students. The program is offered at 19 participating universities across Canada.
+- A proud **build team member** of **First Robotics Canada**'s [Team 5409](https://sites.google.com/hdsb.ca/garthwebrobotics/home). Let's go [Garth Webb Chargers](https://gws.hdsb.ca)! 
+- Excited to take part in this year's [SHAD](https://www.shad.ca)! It is a **nationally recognized** annual Canadian summer enrichment program for high-achieving high school students. The program is offered at **19 participating universities** across Canada.
