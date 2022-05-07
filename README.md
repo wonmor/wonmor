@@ -16,4 +16,4 @@ My name is John. I am a **digital creator**, a self-employed **software engineer
 
 ---
 
-### A proud build team member of First Robotics Canada's [Team 5409](https://sites.google.com/hdsb.ca/garthwebrobotics/home). Let's go [Garth Webb Chargers[(https://gws.hdsb.ca)! 
+### A proud build team member of First Robotics Canada's [Team 5409](https://sites.google.com/hdsb.ca/garthwebrobotics/home). Let's go [Garth Webb Chargers](https://gws.hdsb.ca)! 
