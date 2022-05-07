@@ -1,4 +1,4 @@
-# Welcome Nerds.
+# Look to the Stars, Just Like What Our Ancestor Did 🌟
 
 ### [*Currently in a near-rectilinear halo orbit.*](https://github.com/wonmor)
 
