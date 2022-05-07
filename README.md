@@ -16,7 +16,7 @@ My name is John. I am a **digital creator**, a self-employed **software engineer
 
 ---
 
-- **A proud build team member of First Robotics Canada's [Team 5409](https://sites.google.com/hdsb.ca/garthwebrobotics/home).** Let's go [Garth Webb Chargers](https://gws.hdsb.ca)! We have showcased their new robot “Dunkirik” at this year’s competition, performing extraordinarily well and placing second in the York University match.
+- **A proud build team member of First Robotics Canada's [Team 5409](https://sites.google.com/hdsb.ca/garthwebrobotics/home). Let's go [Garth Webb Chargers](https://gws.hdsb.ca)!** We have showcased their new robot “Dunkirik” at this year’s competition, performing extraordinarily well and placing second in the York University match.
 
 ---
 
