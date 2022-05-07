@@ -1,6 +1,6 @@
 # Look to the Stars, Just Like What Our Ancestors Did.
 
-### [*Currently in a near-rectilinear halo orbit.*](https://github.com/wonmor)
+### [*Currently in a near-rectilinear halo orbit.*](https://johnseong.info)
 
 My name is John. I am a **digital creator**, a self-employed **software engineer**, a **cinematographer**, and most importantly, a full-time **high school student**.
 
