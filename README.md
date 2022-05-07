@@ -1,4 +1,4 @@
-# Look to the Stars, Just Like What Our Ancestors Did 🌟
+# Look to the Stars, Just Like What Our Ancestors Did.
 
 ### [*Currently in a near-rectilinear halo orbit.*](https://github.com/wonmor)
 
