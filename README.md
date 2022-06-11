@@ -21,3 +21,22 @@ My name is John. I am a **digital creator**, a self-employed **software engineer
 ---
 
 - **A proud build team member of First Robotics Canada's [Team 5409](https://sites.google.com/hdsb.ca/garthwebrobotics/home). Let's go [Garth Webb Chargers](https://gws.hdsb.ca)!** We have showcased their new robot “Dunkirik” at this year’s competition, performing extraordinarily well and placing second in the York University match.
+
+---
+
+# Featured Project
+<img width="100" alt="e_logo" src="https://user-images.githubusercontent.com/35755386/171070068-7c1150cc-e908-4c1e-ab11-e05f6e439057.png">
+
+## [ElectronVisualized](https://github.com/wonmor/ElectronVisualized)
+
+A **real-time** electron density simulation **single-handedly** developed by a **high school student**. Displayed based upon the internal calculations performed that involve the state-of-the-art **Projector Augmented-wave** (PAW) method and **Density Functional Theory** (DFT): describing the **probable locations of electrons** by simplifying the N-body Schrödinger's Equation into a relatively easier-to-compute N single-body problem.
+
+---
+
+## Official Build 2.0
+
+Developed and Designed by **John Seong**. Served under the **MIT** License.
+
+### [Launch Website](https://electron-visualized.herokuapp.com/)
+
+---
