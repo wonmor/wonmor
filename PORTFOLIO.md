@@ -30,7 +30,7 @@ The idea of learning Calculus and Linear Algebra often tends to intimidate many 
 # Featured Project
 <img width="100" alt="e_logo" src="https://user-images.githubusercontent.com/35755386/171070068-7c1150cc-e908-4c1e-ab11-e05f6e439057.png">
 
-# ElectronVisualized
+## [ElectronVisualized](https://github.com/wonmor/ElectronVisualized)
 
 A **real-time** electron density simulation **single-handedly** developed by a **high school student**. Displayed based upon the internal calculations performed that involve the state-of-the-art **Projector Augmented-wave** (PAW) method and **Density Functional Theory** (DFT): describing the **probable locations of electrons** by simplifying the N-body Schrödinger's Equation into a relatively easier-to-compute N single-body problem.
 
@@ -59,7 +59,7 @@ Developed and Designed by **John Seong**. Served under the **MIT** License.
 
 ---
 
-### [First Principles: An Interactive Module](https://github.com/GameGenesis/First-Principles)
+## [First Principles: An Interactive Module](https://github.com/GameGenesis/First-Principles)
 
 [Official Documentation](https://github.com/GameGenesis/First-Principles/wiki/First-Principles-Official-Documentation) • [Watch the Promotional Video](https://www.youtube.com/watch?v=k0soEFAK-CQ) • [Live Demo](https://www.youtube.com/watch?v=yo540yl4Xhs)
 
