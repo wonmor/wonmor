@@ -39,4 +39,3 @@ Developed and Designed by **John Seong**. Served under the **MIT** License.
 
 ### [Launch Website](https://electron-visualized.herokuapp.com/)
 
----
