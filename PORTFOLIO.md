@@ -28,33 +28,6 @@ The idea of learning Calculus and Linear Algebra often tends to intimidate many 
 ---
 
 # Featured Project
-<img width="100" alt="e_logo" src="https://user-images.githubusercontent.com/35755386/171070068-7c1150cc-e908-4c1e-ab11-e05f6e439057.png">
-
-## [ElectronVisualized](https://github.com/wonmor/ElectronVisualized)
-
-A **real-time** electron density simulation **single-handedly** developed by a **high school student**. Displayed based upon the internal calculations performed that involve the state-of-the-art **Projector Augmented-wave** (PAW) method and **Density Functional Theory** (DFT): describing the **probable locations of electrons** by simplifying the N-body Schrödinger's Equation into a relatively easier-to-compute N single-body problem.
-
----
-
-## Official Build 2.0
-
-Developed and Designed by **John Seong**. Served under the **MIT** License.
-
-### [Launch Website](https://electron-visualized.herokuapp.com/)
-
----
-
-## Useful Links
-
-[View the **Project Scope Statement**](https://github.com/wonmor/ElectronVisualized/blob/main/docs/John%20Seong%20-%20ICS3%20Project%20Scope%20Statement%20-%20ElectronVisualized.pdf)
-
----
-
-<img width="1200" alt="Screen Shot 2022-06-07 at 9 20 02 PM" src="https://user-images.githubusercontent.com/35755386/172510822-876feff5-0ddd-4ff4-a7dc-babaa1752fbd.png">
-
-<img width="1200" alt="Screen Shot 2022-06-06 at 9 09 19 PM" src="https://user-images.githubusercontent.com/35755386/172510580-8b413bd9-e2fc-4f2c-99f0-510837b70f43.png">
-
----
 
 ![ElectronVisualPromo](https://user-images.githubusercontent.com/35755386/173193444-2ce2a70c-fd07-421b-98bd-c787badbcd8b.png)
 
