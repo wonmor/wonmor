@@ -32,8 +32,6 @@ A **real-time** electron density simulation **single-handedly** developed by a *
 
 ---
 
-## Official Build 2.0
-
 Developed and Designed by **John Seong**. Served under the **MIT** License.
 
 ### [Launch Website](https://electronvisual.org)
