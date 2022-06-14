@@ -26,7 +26,11 @@ My name is John. I am a **digital creator**, a self-employed **software engineer
 
 # Featured Project
 
-![ElectronVisualPromo](https://user-images.githubusercontent.com/35755386/173193444-2ce2a70c-fd07-421b-98bd-c787badbcd8b.png)
+<img width="1200" alt="Screen Shot 2022-06-14 at 1 41 20 PM" src="https://user-images.githubusercontent.com/35755386/173644405-2393fac0-56f7-4a65-9619-e2ae4e561452.png">
+
+---
+
+## ElectronVisualized
 
 A **real-time** electron density simulation **single-handedly** developed by a **high school student**. Displayed based upon the internal calculations performed that involve the state-of-the-art **Projector Augmented-wave** (PAW) method and **Density Functional Theory** (DFT): describing the **probable locations of electrons** by simplifying the N-body Schrödinger's Equation into a relatively easier-to-compute N single-body problem.
 
