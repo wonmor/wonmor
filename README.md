@@ -1,4 +1,4 @@
-# Look to the Stars, Just Like What Our Ancestors Did.
+# Dust pressed into a diamond by the weight of this world.
 
 ### [*Currently in a near-rectilinear halo orbit.*](https://johnseong.info)
 
