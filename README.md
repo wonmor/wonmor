@@ -26,7 +26,7 @@ My name is John. I am a **digital creator**, a self-employed **software engineer
 
 # Featured Project
 
-<img width="1200" alt="Screen Shot 2022-06-18 at 3 00 56 AM" src="https://user-images.githubusercontent.com/35755386/174426800-9100bc8e-6158-4668-b1b2-d741b9ded6c5.png">
+<img width="1200" alt="Screenshot 2022-06-28 at 2 59 12 AM" src="https://user-images.githubusercontent.com/35755386/176114204-8c2b936a-45c5-4f0b-a507-0aaddb252943.png">
 
 ---
 
