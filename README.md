@@ -32,7 +32,7 @@ My name is John. I am a **digital creator**, a self-employed **software engineer
 
 ## ElectronVisualized
 
-**Web**-based **electron density simulation** single-handedly developed by a **high school student**. Displayed based upon the internal calculations performed that involve the state-of-the-art **Projector Augmented-wave** (PAW) method and **Density Functional Theory** (DFT): describing the **probable locations of electrons** by simplifying the N-body Schrödinger's Equation into a relatively easier-to-compute N single-body problem.
+Web-based **atomic** and **molecular** orbitals viewer developed by a high school student, using spherical harmonics and Density Functional Theory formulas.
 
 ---
 
