@@ -38,5 +38,7 @@ Web-based **atomic** and **molecular** orbitals viewer developed by a high schoo
 
 Developed and Designed by **John Seong**. Served under the **MIT** License.
 
-### [Launch Website](https://electronvisual.org)
+### [Launch Web App](https://electronvisual.org)
+
+[Download on the **Mac App Store**](https://apps.apple.com/us/app/electronvisualized/id1631246652?mt=12)
 
