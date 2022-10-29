@@ -1,6 +1,6 @@
 # Dust pressed into a diamond by the weight of this world.
 
-### [*Currently in a near-rectilinear halo orbit.*](https://johnseong.info)
+[**Buy me a Coffee** ☕](https://www.buymeacoffee.com/wonmor)
 
 My name is John. I am a **digital creator**, a self-employed **software engineer**, a **cinematographer**, and most importantly, a full-time **high school student**.
 
