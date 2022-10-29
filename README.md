@@ -16,14 +16,6 @@ My name is John. I am a **digital creator**, a self-employed **software engineer
 
 ---
 
-- **Excited to take part in this year's [SHAD](https://www.shad.ca) at Western University located in London, Ontario!** It is a nationally recognized annual Canadian enrichment program for high-achieving high school students. The program is offered at 19 participating universities across Canada.
-
----
-
-- **A proud build team member of First Robotics Canada's [Team 5409](https://sites.google.com/hdsb.ca/garthwebrobotics/home).** We have showcased their new robot “Dunkirik” at this year’s competition, performing extraordinarily well and placing second in the York University match.
-
----
-
 # Featured Project
 
 <img width="1200" alt="Screenshot 2022-06-28 at 2 59 12 AM" src="https://user-images.githubusercontent.com/35755386/176114204-8c2b936a-45c5-4f0b-a507-0aaddb252943.png">
