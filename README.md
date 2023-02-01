@@ -2,7 +2,7 @@
 
 ### [Buy me a Coffee ☕](https://www.buymeacoffee.com/wonmor)
 
-My name is John. I am a **digital creator**, a self-employed **software engineer**, a **cinematographer**, and most importantly, a full-time **high school student**.
+My name is John. I am a **digital creator**, a self-employed **software engineer**, a **cinematographer**, and most importantly, a full-time **high school student**. My primary areas of interest are iOS/macOS (Swift), Android (Java, Kotlin), and Web (React/React Native, NextJS, Flask, Django, and Electron)
 
 ![John Seong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wonmor&show_icons=true&theme=github_dark)&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonmor&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
