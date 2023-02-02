@@ -1,6 +1,6 @@
 # Dust pressed into a diamond by the weight of this world.
 
-### [Buy me a Coffee ☕](https://www.buymeacoffee.com/wonmor)
+### [Sponsor Me 🫀](https://www.buymeacoffee.com/wonmor)
 
 My name is John. I am a **full-stack developer**, **cinematographer**, and a **music producer** with a degree of industrial experience. I work on platforms such as: **iOS/macOS** (Swift), **Android** (Java/Kotlin), **.NET** (UWP, WPF, and Unity C#), and **Web** (React/React Native, Tailwind CSS, NextJS, Flask, Django, Node.js, Electron, MongoDB, PostgreSQL, Firebase, Docker, Ubuntu Server, etc.)
 
