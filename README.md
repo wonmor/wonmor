@@ -6,6 +6,8 @@ My name is John. I am a **full-stack developer**, **cinematographer**, and a **m
 
 I work on platforms such as: **iOS/macOS** (Swift), **Android** (Java/Kotlin), **.NET** (UWP, WPF, and Unity C#), and **Web** (React/React Native, Tailwind CSS, NextJS, Flask, Django, Node.js, Electron, MongoDB, PostgreSQL, Firebase, Docker, Ubuntu Server, etc.)
 
+---
+
 ![John Seong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wonmor&show_icons=true&theme=github_dark)&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonmor&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
