@@ -63,7 +63,7 @@ My name is John. I am a **full-stack developer**, **cinematographer**, and a **m
 
 ## ElectronVisualized
 
-Web-based **atomic** and **molecular** orbitals viewer developed by a high school student, using spherical harmonics and Density Functional Theory formulas.
+Visualize Atoms and Molecules, Reimagined. Entirely web-based!
 
 [Launch Website](https://electronvisual.org)
 
@@ -87,6 +87,6 @@ Web-based **atomic** and **molecular** orbitals viewer developed by a high schoo
 
 This is a version of [**ElectronVisualized**](https://github.com/wonmor/ElectronVisualized) ported onto **iOS** and **Android**. Built using **React Native**, **Expo**, and **Expo-Three**.
 
-### [App Store](https://apps.apple.com/us/app/electronify/id6446613861)
-
-### [Google Play](https://play.google.com/store/apps/details?id=com.johnseong.electronify)
+| Android | iOS |
+|:-:|:-:|
+| [<img src="resources/img/google-play-badge.png" height="50">](https://play.google.com/store/apps/details?id=com.johnseong.electronify) | [<img src="resources/img/appstore-badge.png" height="50">](https://apps.apple.com/us/app/electronify/id6446613861) |
