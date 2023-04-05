@@ -63,7 +63,7 @@ My name is John. I am a **full-stack developer**, **cinematographer**, and a **m
 
 ## ElectronVisualized
 
-Visualize Atoms and Molecules, Reimagined. Entirely web-based!
+Visualizing Atoms and Molecules, Reimagined. Entirely web-based!
 
 [Launch Website](https://electronvisual.org)
 
