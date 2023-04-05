@@ -57,9 +57,7 @@ My name is John. I am a **full-stack developer**, **cinematographer**, and a **m
 
 Visualizing Atoms and Molecules, Reimagined. Entirely web-based!
 
-[Launch Website](https://electronvisual.org)
-
-[Download on the **Mac App Store**](https://apps.apple.com/us/app/electronvisualized/id1631246652?mt=12)
+[**https://electronvisual.org**](https://electronvisual.org)
 
 ---
 
