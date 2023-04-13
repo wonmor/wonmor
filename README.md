@@ -55,7 +55,7 @@ My name is John. I am a **full-stack developer**, **cinematographer**, and a **m
 
 ---
 
-## [ElectronVisualized[(https://github.com/wonmor/ElectronVisualized)
+## [ElectronVisualized](https://github.com/wonmor/ElectronVisualized)
 
 Visualizing Atoms and Molecules, Reimagined. Entirely web-based!
 
