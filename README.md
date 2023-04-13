@@ -2,7 +2,7 @@
 
 ### [Sponsor Me 🤝](https://www.buymeacoffee.com/wonmor)
 
-My name is John. I am a **full-stack developer**, **cinematographer**, and a **music producer** with a degree of industrial experience. 
+My name is John. I am a **full-stack developer**, **cinematographer**, and a **music producer** in my final year of high school.
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [johnseong@havit.space](mailto:johnseong@havit.space)
@@ -55,7 +55,7 @@ My name is John. I am a **full-stack developer**, **cinematographer**, and a **m
 
 ---
 
-## ElectronVisualized
+## [ElectronVisualized[(https://github.com/wonmor/ElectronVisualized)
 
 Visualizing Atoms and Molecules, Reimagined. Entirely web-based!
 
@@ -63,9 +63,9 @@ Visualizing Atoms and Molecules, Reimagined. Entirely web-based!
 
 ---
 
-## Electronify
+## [Electronify](https://github.com/wonmor/Electronify)
 
-This is a version of [**ElectronVisualized**](https://github.com/wonmor/ElectronVisualized) ported onto **iOS** and **Android**. Built using **React Native**, **Expo**, and **Expo-Three**.
+This is a version of [**ElectronVisualized**](https://github.com/wonmor/ElectronVisualized) ported onto **iOS** and **Android**. Built from scratch using React Native.
 
 | Android | iOS |
 |:-:|:-:|
