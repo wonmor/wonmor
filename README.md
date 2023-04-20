@@ -57,7 +57,7 @@ My name is John. I am a **full-stack developer**, **cinematographer**, and a **m
 
 ## [ElectronVisualized](https://github.com/wonmor/ElectronVisualized)
 
-Visualizing Atoms and Molecules, Reimagined. Entirely web-based!
+A web-based viewer for atomic and molecular orbitals.
 
 [**https://electronvisual.org**](https://electronvisual.org)
 
@@ -65,7 +65,7 @@ Visualizing Atoms and Molecules, Reimagined. Entirely web-based!
 
 ## [Electronify](https://github.com/wonmor/Electronify)
 
-This is a version of [**ElectronVisualized**](https://github.com/wonmor/ElectronVisualized) ported onto **iOS** and **Android**. Built from scratch using React Native.
+This is a version of [**ElectronVisualized**](https://github.com/wonmor/ElectronVisualized) rewritten in React Native and Expo.
 
 | Android | iOS |
 |:-:|:-:|
