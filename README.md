@@ -49,7 +49,7 @@ My name is John. I am a **full-stack developer**, **cinematographer**, and a **m
 
 # Featured Project
 
-<img width="1200" alt="Screenshot 2023-04-12 at 8 57 42 PM" src="https://user-images.githubusercontent.com/35755386/231621394-a8c84a2b-8d0a-4c5a-a790-f3a4590a971d.png">
+<img width="1200" alt="Screenshot 2023-04-27 at 12 26 13 AM" src="https://user-images.githubusercontent.com/35755386/234759440-d62654f4-06c3-4b49-ab9c-58bbdd4377be.png">
 
 <img width="1200" alt="Screenshot 2023-04-12 at 9 21 54 PM" src="https://user-images.githubusercontent.com/35755386/231621160-9405e6e6-e32d-49f4-ae31-89dae2b3b74a.png">
 
