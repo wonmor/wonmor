@@ -1,5 +1,3 @@
-# Dust pressed into a diamond by the weight of this world.
-
 ### [Sponsor Me 🤝](https://www.buymeacoffee.com/wonmor)
 
 My name is John. I am a **full-stack developer**, **cinematographer**, and a **music producer** in my final year of high school.
