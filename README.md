@@ -68,7 +68,7 @@ Built using Xcode 14 on macOS Ventura, designed to run on iPhone, iPad, and ARM-
 
 <img width="100" alt="icon" src="https://user-images.githubusercontent.com/35755386/234764302-0180b0d4-2af7-45d2-b445-ea9bbe4f7ff5.png">
 
-## [Electronify](https://github.com/wonmor/Electronify)
+# [Electronify](https://github.com/wonmor/Electronify)
 
 This is a version of [**ElectronVisualized**](https://github.com/wonmor/ElectronVisualized) rewritten in React Native and Expo.
 
