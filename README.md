@@ -1,6 +1,6 @@
 # About Me
 
-My name is John. I am a **full-stack developer**, **cinematographer**, and a **music producer** in my final year of high school.
+My name is John. I am a **full-stack developer**, **filmmaker**, and a **startup founder** in my final year of high school.
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [johnseong@havit.space](mailto:johnseong@havit.space)
