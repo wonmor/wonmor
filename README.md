@@ -87,7 +87,7 @@ This is a version of [**ElectronVisualized**](https://github.com/wonmor/Electron
 
 <img width="100" alt="icon-2" src="https://user-images.githubusercontent.com/35755386/235810046-56828de6-5edf-4000-a3cb-d1bfc94b91b1.png">
 
-# Atomizer AR
+# [Atomizer AR](https://github.com/wonmor/Atomizer-Swift-Challenge)
 
 > **Visualizing Quantum Mechanics, Reimagined.**
 
