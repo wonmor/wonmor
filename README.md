@@ -57,9 +57,13 @@ A web-based viewer and an API for atomic and molecular orbitals.
 
 ---
 
-<img width="600" alt="Screenshot 2023-04-27 at 12 26 13 AM" src="https://user-images.githubusercontent.com/35755386/234759440-d62654f4-06c3-4b49-ab9c-58bbdd4377be.png">
+<table><tr>
 
-<img width="600" alt="Screenshot 2023-04-12 at 9 21 54 PM" src="https://user-images.githubusercontent.com/35755386/231621160-9405e6e6-e32d-49f4-ae31-89dae2b3b74a.png">
+<td valign="center"><img width="600" alt="Screenshot-1" src="https://user-images.githubusercontent.com/35755386/234759440-d62654f4-06c3-4b49-ab9c-58bbdd4377be.png"></td>
+
+<td valign="center"><img width="600" alt="Screenshot-2" src="https://user-images.githubusercontent.com/35755386/231621160-9405e6e6-e32d-49f4-ae31-89dae2b3b74a.png"></td>
+
+</tr></table>
 
 ---
 
@@ -105,5 +109,3 @@ Built using Xcode 14 on macOS Ventura, designed to run on iPhone, iPad, and ARM-
 <td valign="center"><img width="600" alt="Screenshot-2" src="https://user-images.githubusercontent.com/35755386/235809592-378717d7-3747-4c9f-8c62-a81d0e17df47.jpg"></td>
 
 </tr></table>
-
----
