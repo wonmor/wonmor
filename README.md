@@ -82,3 +82,26 @@ This is a version of [**ElectronVisualized**](https://github.com/wonmor/Electron
 <td valign="center"><img width="300" alt="Screenshot-4" src="https://user-images.githubusercontent.com/35755386/234764116-c12a18cb-f1bf-4dd2-9d0e-0976a46845c5.png"></td>
 
 </tr></table>
+
+---
+
+<img width="100" alt="icon-2" src="https://user-images.githubusercontent.com/35755386/235810046-56828de6-5edf-4000-a3cb-d1bfc94b91b1.png">
+
+# Atomizer AR
+
+> **Visualizing Quantum Mechanics, Reimagined.**
+
+Developed by John Seong, 2023. A WWDC 2023 Swift Student Challenge Submission.
+Built using Xcode 14 on macOS Ventura, designed to run on iPhone, iPad, and ARM-based Macs.
+
+---
+
+<table><tr>
+
+<td valign="center"><img width="300" alt="Screenshot-1" src="https://user-images.githubusercontent.com/35755386/235810213-0502e4d9-2e62-490b-b271-a6923d2e3042.jpg"></td>
+
+<td valign="center"><img width="300" alt="Screenshot-2" src="https://user-images.githubusercontent.com/35755386/235809592-378717d7-3747-4c9f-8c62-a81d0e17df47.jpg"></td>
+
+</tr></table>
+
+---
