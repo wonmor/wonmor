@@ -98,9 +98,9 @@ Built using Xcode 14 on macOS Ventura, designed to run on iPhone, iPad, and ARM-
 
 <table><tr>
 
-<td valign="center"><img width="300" alt="Screenshot-1" src="https://user-images.githubusercontent.com/35755386/235810213-0502e4d9-2e62-490b-b271-a6923d2e3042.jpg"></td>
+<td valign="center"><img width="600" alt="Screenshot-1" src="https://user-images.githubusercontent.com/35755386/235810213-0502e4d9-2e62-490b-b271-a6923d2e3042.jpg"></td>
 
-<td valign="center"><img width="300" alt="Screenshot-2" src="https://user-images.githubusercontent.com/35755386/235809592-378717d7-3747-4c9f-8c62-a81d0e17df47.jpg"></td>
+<td valign="center"><img width="600" alt="Screenshot-2" src="https://user-images.githubusercontent.com/35755386/235809592-378717d7-3747-4c9f-8c62-a81d0e17df47.jpg"></td>
 
 </tr></table>
 
