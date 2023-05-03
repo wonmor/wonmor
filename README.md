@@ -1,6 +1,7 @@
 # About Me
 
 My name is John. I am a **full-stack developer**, **filmmaker**, and a **startup founder** in my final year of high school.
+
 I will be attending **University of California, Irvine** as a Psychology and Computer Science student in September!
 
 * 🌍  I'm based in Toronto, Canada
