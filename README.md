@@ -1,10 +1,12 @@
-### [Sponsor Me 🤝](https://www.buymeacoffee.com/wonmor)
+# About Me
 
 My name is John. I am a **full-stack developer**, **cinematographer**, and a **music producer** in my final year of high school.
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [johnseong@havit.space](mailto:johnseong@havit.space)
 * 🧠  I'm a huge fan of computational chemistry
+
+### [Sponsor Me 🤝](https://www.buymeacoffee.com/wonmor)
 
 ---
 
