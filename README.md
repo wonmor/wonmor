@@ -55,6 +55,8 @@ My name is John. I am a **full-stack developer**, **cinematographer**, and a **m
 
 ---
 
+<img width="100" alt="icon-2" src="https://user-images.githubusercontent.com/35755386/224520472-1e542a07-dfca-4a27-a663-c5831708aeaa.png">
+
 ## [ElectronVisualized](https://github.com/wonmor/ElectronVisualized)
 
 A web-based viewer and an API for atomic and molecular orbitals.
