@@ -7,7 +7,7 @@ I will be attending **University of California, Irvine** as a **Psychology** and
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [johnseong@havit.space](mailto:johnseong@havit.space)
 * 🧠  I'm a huge fan of computational chemistry
-* 🏆  Swift Student Challenge / WWDC23 Scholar
+* 🏆  Apple's Swift Student Challenge / WWDC23 Scholar
 * 🧩  Invited to attend the in-person Apple Special Event
 
 ### [Sponsor Me 🤝](https://www.buymeacoffee.com/wonmor)
