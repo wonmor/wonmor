@@ -73,8 +73,6 @@ Built using Xcode 14 on macOS Ventura, designed to run on iPhone, iPad, and ARM-
   <td valign="center"><img width="200" alt="Screenshot-5" src="https://github.com/wonmor/wonmor/assets/35755386/a2c4b9f8-9690-4460-b576-beb427763ab0"></td>
   
   <td valign="center"><img width="200" alt="Screenshot-6" src="https://github.com/wonmor/wonmor/assets/35755386/440ff984-0c2a-4b0b-89b5-68fe6d81fbbf"></td>
-  
-    <td valign="center"><img width="200" alt="Screenshot-7" src="https://github.com/wonmor/wonmor/assets/35755386/3348c19b-28d5-4ef3-a28c-8be542ff8c8c"></td>
 
 </tr></table>
 
