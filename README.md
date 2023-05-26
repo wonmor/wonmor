@@ -55,7 +55,7 @@ I will be attending **University of California, Irvine** as a **Psychology** and
 >
 > *Watch the Demo: https://www.youtube.com/watch?v=kHcdvyaqslU*
 
-| iOS |
+| iOS, iPadOS, and macOS |
 |:-:|
 | [<img src="resources/img/appstore-badge.png" height="50">](https://apps.apple.com/us/app/atomizer-ar/id6449015706) |
 
