@@ -56,7 +56,7 @@ I will be attending **University of California, Irvine** as a **Psychology** and
 > *Watch the Demo: https://www.youtube.com/watch?v=kHcdvyaqslU*
 
 | iOS |
-|:-:|:-:|
+|:-:|
 | [<img src="resources/img/appstore-badge.png" height="50">](https://apps.apple.com/us/app/atomizer-ar/id6449015706) |
 
 Developed by John Seong, 2023. A WWDC 2023 Swift Student Challenge Submission.
