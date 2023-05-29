@@ -4,7 +4,7 @@
 
 I will be attending **University of California, Irvine** as a **Psychology** and **Computer Science** major in September!
 
-* 🌍  I'm based in Toronto, Canada
+* 🌍  I'm based in Toronto, Canada / moving to Irvine, CA, USA!
 * ✉️  You can contact me at [johnseong@havit.space](mailto:johnseong@havit.space)
 * 🧠  I'm a huge fan of computational chemistry
 * 🏆  Apple Swift Student Challenge / WWDC23 Scholar
