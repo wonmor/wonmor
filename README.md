@@ -2,15 +2,19 @@
 
 > My name is John. I am a **full-stack developer**, **filmmaker**, and a **startup founder** in my final year of high school.
 
-I will be attending **University of California, Irvine** as a **Psychology** and **Computer Science** major in September!
-
 * 🌍  I'm based in Toronto, Canada / moving to Irvine, CA, USA
 * ✉️  You can contact me at [johnseong@havit.space](mailto:johnseong@havit.space)
 * 🧠  I'm a huge fan of computational chemistry
 * 🏆  Apple Swift Student Challenge / WWDC23 Scholar
 * 🧩  Invited to attend the in-person Apple Special Event
 
-### [Sponsor Me 🤝](https://www.buymeacoffee.com/wonmor)
+<table><tr>
+
+<td valign="center"><img width="300" alt="Screenshot-1" src="https://github.com/wonmor/wonmor/assets/35755386/eaa1728a-923a-40aa-bc6d-fac02503d5ee"></td>
+
+<td valign="center"><img width="300" alt="Screenshot-2" src="https://github.com/wonmor/wonmor/assets/35755386/f8d7ad6b-81e4-4a1e-8400-46696b9f0725"></td>
+
+</tr></table>
 
 ---
 
