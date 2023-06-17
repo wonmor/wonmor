@@ -1,6 +1,6 @@
 # About Me
 
-> My name is John. I am a **full-stack developer**, **filmmaker**, and a **startup founder** in my final year of high school.
+> Award Winning Developer and a Filmmaker.
 
 * 🌍  I'm based in Irvine, California
 * ✉️  You can contact me at [wonmos@uci.edu](mailto:wonmos@uci.edu)
