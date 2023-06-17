@@ -1,6 +1,7 @@
 # About Me
 
-> Award Winning Developer and a Filmmaker.
+> “Sometimes life's going to hit you in the head with a brick. Don't lose faith. I'm convinced that the only thing that kept me going was that I loved what I did.” 
+> – Steve Jobs
 
 * 🌍  I'm based in Irvine, California
 * ✉️  You can contact me at [wonmos@uci.edu](mailto:wonmos@uci.edu)
