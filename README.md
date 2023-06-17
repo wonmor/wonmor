@@ -2,11 +2,10 @@
 
 > My name is John. I am a **full-stack developer**, **filmmaker**, and a **startup founder** in my final year of high school.
 
-* 🌍  I'm based in Toronto, Canada / moving to Irvine, CA, USA
-* ✉️  You can contact me at [johnseong@havit.space](mailto:johnseong@havit.space)
+* 🌍  I'm based in Irvine, California
+* ✉️  You can contact me at [wonmos@uci.edu](mailto:wonmos@uci.edu)
 * 🧠  I'm a huge fan of computational chemistry
-* 🏆  Apple Swift Student Challenge / WWDC23 Scholar
-* 🧩  Invited to attend the in-person Apple Special Event
+* 🏆  Apple Swift Student Challenge Winner and a WWDC23 Invitee
 
 <table><tr>
 
