@@ -4,7 +4,7 @@
 > 
 > – Steve Jobs
 
-* 🌍  I'm based in Irvine, California
+* 🌍  I'm based in Orange County, California
 * ✉️  You can contact me at [wonmos@uci.edu](mailto:wonmos@uci.edu)
 * 🧠  I'm a huge fan of computational chemistry
 * 🏆  Apple Swift Student Challenge Winner and a WWDC23 Invitee
