@@ -11,9 +11,9 @@
 
 <table><tr>
 
-<td valign="center"><img width="300" alt="Screenshot-1" src="https://github.com/wonmor/wonmor/assets/35755386/eaa1728a-923a-40aa-bc6d-fac02503d5ee"></td>
+<td valign="center"><img width="300" alt="Screenshot-1" src="https://github.com/wonmor/wonmor/assets/35755386/eaa1728a-923a-40aa-bc6d-fac02503d5ee" /></td>
 
-<td valign="center"><img width="300" alt="Screenshot-2" src="https://github.com/wonmor/wonmor/assets/35755386/7c3ba0a7-ed1c-4711-abc1-1631d60eb61b"></td>
+<td valign="center"><img width="300" alt="Screenshot-2" src="https://github.com/wonmor/wonmor/assets/35755386/7c3ba0a7-ed1c-4711-abc1-1631d60eb61b" /></td>
 
 </tr></table>
 
