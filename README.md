@@ -8,14 +8,8 @@
 * ✉️  You can contact me at [wonmos@uci.edu](mailto:wonmos@uci.edu)
 * 🧠  I'm a huge fan of computational chemistry
 * 🏆  Apple Swift Student Challenge Winner and a WWDC23 Invitee
-
-<table><tr>
-
-<td valign="center"><img width="300" alt="Screenshot-1" src="https://github.com/wonmor/wonmor/assets/35755386/eaa1728a-923a-40aa-bc6d-fac02503d5ee" /></td>
-
-<td valign="center"><img width="300" alt="Screenshot-2" src="https://github.com/wonmor/wonmor/assets/35755386/7c3ba0a7-ed1c-4711-abc1-1631d60eb61b" /></td>
-
-</tr></table>
+  
+![apple_park_shot](https://github.com/wonmor/wonmor/assets/35755386/8aa0c5c1-8c37-4c22-b5f9-748470e96d9a)
 
 ---
 
