@@ -11,7 +11,7 @@
   
 ![apple_park_shot](https://github.com/wonmor/wonmor/assets/35755386/8aa0c5c1-8c37-4c22-b5f9-748470e96d9a)
 
-*With ❤️ from Apple Park in Cupertino, CA*
+[*With ❤️ from Apple Park in Cupertino, CA*](https://johnseong.com)
 
 ---
 
