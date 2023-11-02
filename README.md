@@ -9,11 +9,6 @@
 * ✉️  You can contact me at [wonmos@uci.edu](mailto:wonmos@uci.edu)
 * 🏆  Apple Swift Student Challenge Winner & WWDC23 Invitee
 
-
-<img src="https://github.com/wonmor/wonmor/assets/35755386/8aa0c5c1-8c37-4c22-b5f9-748470e96d9a" width="500" alt="Apple Park" />
-
-*With ❤️ from Apple Park in Cupertino, CA*
-
 ---
 
 <p align="left">
