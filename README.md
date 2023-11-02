@@ -42,7 +42,7 @@
 
 > **Visualizing Quantum Mechanics, Reimagined.**
 >
-> *Watch the Demo: https://www.youtube.com/watch?v=kHcdvyaqslU*
+> *Watch the Demo: https://www.youtube.com/watch?v=5eT39MEA0ec*
 
 | iOS, iPadOS, and macOS |
 |:-:|
