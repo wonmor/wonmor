@@ -1,8 +1,8 @@
 # Hi, I'm John 👋
 
-> “Sometimes life's going to hit you in the head with a brick. Don't lose faith. I'm convinced that the only thing that kept me going was that I loved what I did.” 
+> “I skate to where the puck is going to be, not where it has been.” 
 > 
-> – Steve Jobs
+> – Wayne Gretzsky
 
 * 🌍  I'm based in Orange County, California
 * 📚  I am an undeclared major at UC Irvine, with plans of pursuing an Aerospace Engineering degree
