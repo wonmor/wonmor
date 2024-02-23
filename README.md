@@ -2,7 +2,7 @@
 
 > “I skate to where the puck is going to be, not where it has been.” 
 > 
-> – Wayne Gretzsky
+> – Wayne Gretzsky, Former NHL Player
 
 * 🌍  I'm based in Orange County, California
 * 📚  I am an undeclared major at UC Irvine, with plans of pursuing an Aerospace Engineering degree
