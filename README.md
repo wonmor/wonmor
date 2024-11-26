@@ -5,7 +5,7 @@
 > – Wayne Gretzsky, Former NHL Player
 
 * 🌍  I'm based in Orange County, California
-* 📚  I am pursuing B.S. Aerospace Engineering at UC Irvine, but currently taking a break to obtain Private Pilot's License @ Sunrise Aviation (KSNA).
+* 📚  I am pursuing B.S. Aerospace Engineering at UC Irvine, but currently taking a break to obtain Private Pilot's License @ Sunrise Aviation (KSNA)
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
