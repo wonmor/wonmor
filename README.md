@@ -4,7 +4,7 @@
 > 
 > – Wayne Gretzsky, Former NHL Player
 
-* 🌍  I'm based in Orange County, California
+* 🌍  I'm based in Newport Beach, California
 * 📚  I am pursuing B.S. Aerospace Engineering at UC Irvine, but currently taking a break to obtain Private Pilot's License @ Sunrise Aviation (KSNA)
 
 <p align="left">
