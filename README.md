@@ -1,4 +1,4 @@
-# Hi, I'm John 👋
+# Hey, I'm John 👋
 
 * 🌍  I'm based in Newport Beach, California
 * 📚  I am pursuing B.S. Aerospace Engineering at UC Irvine, but currently taking a break to obtain Private Pilot's License @ Sunrise Aviation (KSNA)
