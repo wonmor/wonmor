@@ -1,7 +1,7 @@
 # Hey, I'm John 👋
 
 * 🌍  I'm based in Newport Beach, California
-* 🍎 I'm one of the few Canadian-based 2023 Apple Swift Student Challenge Winner. Met Tim Apple at WWDC23 In-person Event!
+* 🍎 I'm one of the few Canadian-based 2023 Apple Swift Student Challenge Winner. Met Tim Apple at WWDC23 In-person event
 * 📚  I am pursuing B.S. Aerospace Engineering at UC Irvine, but currently taking a break to obtain a Private Pilot's License @ Sunrise Aviation (KSNA)
 * 🧑‍💻 I mainly code in Swift and Typescript for Web & Mobile Apps – C++ and Python for more specialized tasks like Computer Vision, BCI EEG data clean-up, or Computational Chemistry projects like the [one](https://www.youtube.com/watch?v=F95lSwabPpE) I've worked on recently
 * 🙊 I live by the following quote:
@@ -10,7 +10,7 @@
 > 
 > – Wayne Gretzsky, Former NHL Player
 
-* 📺 Check out my YouTube Channel [https://youtube.com/@JohnSeong](https://youtube.com/@JohnSeong) for aviation-related topics and coding tutorials
+* 📺 Check out my YouTube Channel [https://youtube.com/@JohnSeong](https://youtube.com/@JohnSeong) for more aviation-related topics and coding tutorials
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
