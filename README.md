@@ -3,6 +3,7 @@
 * 🌍  I'm based in Newport Beach, California
 * 📚  I am pursuing B.S. Aerospace Engineering at UC Irvine, but currently taking a break to obtain a Private Pilot's License @ Sunrise Aviation (KSNA)
 * I mainly code in Swift and Typescript for Web & Mobile Apps – C++ and Python for more specialized tasks like Computer Vision, BCI EEG data clean-up, or Computational Chemistry projects like the [one](https://www.youtube.com/watch?v=F95lSwabPpE) I've worked on recently
+* Check out my Youtube Channel! [https://youtube.com/@JohnSeong](https://youtube.com/@JohnSeong)
 * I live by the following quote:
 
 > “I skate to where the puck is going to be, not where it has been.” 
