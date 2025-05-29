@@ -3,7 +3,7 @@
 * 🍎 I'm one of the few Canada-based 2023 Apple Swift Student Challenge Winner. Met Tim Apple at WWDC23 In-person event
 * You can contact me at wonmor@gmail.com
 * 🇬🇧 I'm currently based in London, United Kingdom. Received a Global Talent visa at a relatively young age (20) and obtained ILR (indefinite leave of remain) through that route
-* 📚  I am currently taking a break from all studies to focus on my startup business
+* 📚  I am currently taking a break from all studies to focus on my freelance startup & travelling the world
 * 🧑‍💻 I mainly code in Swift and Typescript for Web & Mobile Apps – C++ and Python for more specialized tasks like Computer Vision, BCI EEG data clean-up, or Computational Chemistry projects like the [one](https://www.youtube.com/watch?v=F95lSwabPpE) I've worked on recently
 
 * 📺 Check out my YouTube Channel [https://youtube.com/@JohnSeong](https://youtube.com/@JohnSeong) for more aviation-related topics and coding tutorials
