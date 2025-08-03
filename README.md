@@ -1,6 +1,6 @@
 # Hey, I'm John 👋
 
-* 🍎 I'm one of the few Canada-based 2023 Apple Swift Student Challenge Winner. Met Tim Apple at WWDC23 In-person event
+* 🍎 I'm one of the few Canada-based 2023 Apple Swift Student Challenge Winners. Met Tim Cook at a WWDC23 In-person event!
 * You can contact me at wonmor@gmail.com
 * 🇬🇧 I'm currently based in London, United Kingdom. Received a Global Talent visa at a relatively young age (20) and in the process of obtaining an ILR (indefinite leave of remain) through that route
 * 📚  I am currently taking a break from all studies to focus on my freelance startup & travelling the world
