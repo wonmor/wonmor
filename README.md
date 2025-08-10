@@ -35,7 +35,8 @@
 
 <img width="100" alt="icon-2" src="https://user-images.githubusercontent.com/35755386/235810046-56828de6-5edf-4000-a3cb-d1bfc94b91b1.png">
 
-# [Atomizer AR](https://github.com/wonmor/Atomizer-Swift-Challenge)
+### [Atomizer AR - Client (iOS)](https://github.com/wonmor/Atomizer-Swift-Challenge)
+## [Atomizer AR - Server](https://github.com/wonmor/ElectronVisualized)
 
 > **Visualizing Quantum Mechanics, Reimagined.**
 >
