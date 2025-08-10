@@ -29,11 +29,12 @@
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 </p>
 
-<p align="left"> <a href="http://www.instagram.com/astro.johnseong" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/john-seong-9194321a9/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### Add me on LinkedIn
+<a href="https://www.linkedin.com/in/john-seong-9194321a9/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ---
 
-<img width="200" alt="icon-2" src="https://github.com/wonmor/ElectronVisualized/blob/7e81ba658146375607be5b3018a1ed0a3d455955/docs/Icon1024.png">
+<img width="100" alt="icon-2" src="https://github.com/wonmor/ElectronVisualized/blob/7e81ba658146375607be5b3018a1ed0a3d455955/docs/Icon1024.png">
 
 # [Atomizer AR - Client (iOS)](https://github.com/wonmor/Atomizer-Swift-Challenge)
 > Click the titles to move to each GitHub repo (Both client & server)
