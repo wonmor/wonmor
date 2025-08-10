@@ -33,7 +33,7 @@
 
 ---
 
-<img width="100" alt="icon-2" src="https://github.com/wonmor/ElectronVisualized/blob/7e81ba658146375607be5b3018a1ed0a3d455955/docs/Icon1024.png">
+<img width="200" alt="icon-2" src="https://github.com/wonmor/ElectronVisualized/blob/7e81ba658146375607be5b3018a1ed0a3d455955/docs/Icon1024.png">
 
 # [Atomizer AR - Client (iOS)](https://github.com/wonmor/Atomizer-Swift-Challenge)
 > Click the titles to move to each GitHub repo (Both client & server)
