@@ -37,7 +37,7 @@
 
 # [Atomizer AR - Client (iOS)](https://github.com/wonmor/Atomizer-Swift-Challenge)
 > Click the titles to move to each GitHub repo (Both client & server)
-# [ElectronVisualized API - Server](https://github.com/wonmor/ElectronVisualized)
+# [ElectronVisualized (Web) - Server](https://github.com/wonmor/ElectronVisualized)
 
 > **Visualizing Quantum Mechanics, Reimagined.**
 >
