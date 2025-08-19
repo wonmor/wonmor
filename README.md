@@ -54,9 +54,3 @@ Built using Xcode 14 on macOS Ventura, designed to run on iPhone, iPad, and ARM-
 
 ![346091630_962156048139650_5797215412402448016_n](https://github.com/wonmor/wonmor/assets/35755386/b606d6ee-5c5a-482a-8c6e-b66be7aebad2)
 
----
-
-## ElectronVisualized's Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=wonmor/ElectronVisualized&type=Date)](https://www.star-history.com/#wonmor/ElectronVisualized&Date)
-
