@@ -39,13 +39,6 @@ https://johnseong.com
 
 # [Atomizer AR - Client (iOS)](https://github.com/wonmor/Atomizer-Swift-Challenge)
 > Click the titles to move to each GitHub repo (Both client & server)
-> <td colspan="2" align="center">
-
-[![Demo Video](https://www.youtube.com/watch?v=5eT39MEA0ec)
-&nbsp;&nbsp;&nbsp;
-[![App Store](https://apps.apple.com/us/app/atomizer-ar/id6449015706)
-
-</td>
 # [ElectronVisualized (Web) - Server](https://github.com/wonmor/ElectronVisualized)
 
 > **Visualizing Quantum Mechanics, Reimagined.**
