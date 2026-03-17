@@ -41,16 +41,57 @@ https://johnseong.com
 > Click the titles to move to each GitHub repo (Both client & server)
 # [ElectronVisualized (Web) - Server](https://github.com/wonmor/ElectronVisualized)
 
-> **Visualizing Quantum Mechanics, Reimagined.**
->
-> *Watch the Demo: https://www.youtube.com/watch?v=5eT39MEA0ec*
+A cross-platform **quantum mechanics visualizer powered by Density Functional Theory (DFT)**, available across:
 
-| iOS, iPadOS, and macOS |
+- Web (Three.js) [**https://electronvisual.org**](https://electronvisual.org)
+- iOS  
+- macOS  
+- visionOS via *Atomizer AR* (**10K+ downloads**)  
+
+This is the very project that earned me the **2023 Apple WWDC Swift Student Challenge Award**.
+
+
+| iOS, iPadOS, and visionOS |
 |:-:|
-| [<img src="resources/img/appstore-badge.png" height="50">](https://apps.apple.com/us/app/atomizer-ar/id6449015706) |
+| [<img src="https://github.com/wonmor/Atomizer-Swift-Challenge/blob/bb3e156b76ce46eeed402345667d51c843f73280/Docs/appstore-badge.png" height="50">](https://apps.apple.com/us/app/atomizer-ar/id6449015706) |
 
-Developed by John Seong, 2023. A WWDC23 Swift Student Challenge Submission.
-Built using Xcode 14 on macOS Ventura, designed to run on iPhone, iPad, and ARM-based Macs.
+---
+
+### 🏆 Recognition
+
+- 🥇 Apple WWDC 2023 Swift Student Challenge Award Winner (Invited to WWDC where I got to meet Tim Cook and Craig Federighi in-person)
+- 📘 Featured in acknowledgment of a publication by **Sir David Clary**  
+  (University of Oxford Professor and former UK Government Chief Scientific Advisor)  
+  - Acknowledgement: https://www.worldscientific.com/doi/suppl/10.1142/13806/suppl_file/13806_preface.pdf  
+
+- 🧪 Built upon foundational work by **Walter Kohn** (Nobel Laureate, DFT)  
+  - Reference: https://doi.org/10.1142/13806  
+
+---
+
+### 🧠 Tech Stack
+
+**Frontend**
+- Three.js  
+- React  
+- Redux  
+- WebXR  
+
+**Backend**
+- RDKit  
+- SciPy  
+- ASE (Atomic Simulation Environment)  
+- GPAW (DFT engine)  
+- Celery  
+- Redis  
+- Docker  
+- AWS  
+
+---
+
+### 🎥 Demo
+
+Watch demo walkthrough: **YouTube**  
 
 ![346091630_962156048139650_5797215412402448016_n](https://github.com/wonmor/wonmor/assets/35755386/b606d6ee-5c5a-482a-8c6e-b66be7aebad2)
 
