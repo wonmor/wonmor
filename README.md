@@ -3,7 +3,7 @@
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonmor)](https://github.com/wonmor/github-readme-stats)
 
 * 🍎 I won Apple Swift Student Challenge in 2023, and was invited to their annual WWDC event! Check out my app [Atomizer AR](https://github.com/wonmor/ElectronVisualized) for my winner proj.
-* 🇺🇸🇬🇧 I have an O-1A Extraordinary Ability visa in the U.S. and a Global Talent visa in the UK with work authorisations in both countries
+* 🇺🇸🇬🇧 I have an O-1A Extraordinary Ability visa in the U.S. and a Global Talent visa in the UK with work/entrepreneurship authorisations in both countries
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
