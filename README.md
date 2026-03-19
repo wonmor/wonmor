@@ -3,7 +3,6 @@
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonmor)](https://github.com/wonmor/github-readme-stats)
 
 * 🍎 I won Apple Swift Student Challenge in 2023, and was invited to their annual WWDC event! Check out my app [Atomizer AR](https://github.com/wonmor/ElectronVisualized) for my winner proj.
-* 🧑‍💻 I mainly code in SwiftUI and Typescript for Web & Mobile Apps – C++, Python, and Docker for backend (server) & more specialized tasks like Computer Vision, BCI EEG data clean-up, or Computational Chemistry projects like the [one](https://www.youtube.com/watch?v=F95lSwabPpE) I've worked on recently
 * 🇺🇸🇬🇧 I have an O-1A Extraordinary Ability visa in the U.S. and a Global Talent visa in the UK with work authorisations in both countries
 
 <p align="left">
