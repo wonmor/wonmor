@@ -1,7 +1,5 @@
 # Hey, I'm John 👋
 
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonmor)](https://github.com/wonmor/github-readme-stats)
-
 * 🍎 I won Apple Swift Student Challenge in 2023, and was invited to their annual WWDC event! Check out my app [Atomizer AR](https://github.com/wonmor/ElectronVisualized) for my winner proj.
 * 🇺🇸🇬🇧 I have an O-1A Extraordinary Ability visa in the U.S. and a Global Talent visa in the UK with work/entrepreneurship authorisations in both countries
 
