@@ -1,70 +1,108 @@
-# Hey, I'm John 👋
+# John Seong
 
-* 🍎 I won Apple Swift Student Challenge in 2023, and was invited to their annual WWDC event! Check out my app [Atomizer AR](https://github.com/wonmor/ElectronVisualized) for my winner proj.
-* 🇺🇸🇬🇧 I have an O-1A Extraordinary Ability visa in the U.S. and a Global Talent visa in the UK with work/entrepreneurship authorisations in both countries
+**pilot · founder · engineer**
 
-### View my Portfolio
-https://johnseong.com
+creative work · aerospace  
+[john@orchestrsim.com](mailto:john@orchestrsim.com)
 
----
+- 🍎 **Apple WWDC23 scholar** — distinguished winner, at 19
+- 🇺🇸 **US O-1A visa** · 🇬🇧 **UK Global Talent visa** — work and entrepreneurship authorisations in both countries
+- ⚜️ built in Quebec
 
-<img width="100" alt="icon-2" src="https://github.com/wonmor/ElectronVisualized/blob/7e81ba658146375607be5b3018a1ed0a3d455955/docs/Icon1024.png">
+**as seen in** [MobileSyrup](https://mobilesyrup.com/2023/06/05/meet-the-six-canadian-winners-of-apples-wwdc23-swift-student-challenge/) · [Halton District School Board](https://web.archive.org/web/20240530133558/https://hdsb.ca/our-board/Pages/News/News-Description.aspx?NewsID=1145)
 
-# [Atomizer AR - Client (iOS)](https://github.com/wonmor/Atomizer-Swift-Challenge)
-> Click the titles to move to each GitHub repo (Both client & server)
-# [ElectronVisualized (Web) - Server](https://github.com/wonmor/ElectronVisualized)
-
-A cross-platform **quantum mechanics visualizer powered by Density Functional Theory (DFT)**, available across:
-
-- Web (Three.js) [**https://electronvisual.org**](https://electronvisual.org)
-- iOS  
-- macOS  
-- visionOS via *Atomizer AR* (**10K+ downloads**)  
-
-This is the very project that earned me the **2023 Apple WWDC Swift Student Challenge Award**.
-
-
-| iOS, iPadOS, and visionOS |
-|:-:|
-| [<img src="https://github.com/wonmor/Atomizer-Swift-Challenge/blob/bb3e156b76ce46eeed402345667d51c843f73280/Docs/appstore-badge.png" height="50">](https://apps.apple.com/us/app/atomizer-ar/id6449015706) |
+[Portfolio](https://johnseong.com) · [YouTube](https://www.youtube.com/channel/UC2O-C28dSgDTZcYxv9OX20w) · [LinkedIn](https://www.linkedin.com/in/john-seong-9194321a9/) · [App Store](https://apps.apple.com/ca/developer/wonmo-seong/id1625011193)
 
 ---
 
-### 🏆 Recognition
+## showcase
 
-- 🥇 Apple WWDC 2023 Swift Student Challenge Award Winner (Invited to WWDC where I got to meet Tim Cook and Craig Federighi in-person)
-- 📘 Featured in acknowledgment of a publication by **Sir David Clary**  
-  (University of Oxford Professor and former UK Government Chief Scientific Advisor)  
-  - Acknowledgement: https://www.worldscientific.com/doi/suppl/10.1142/13806/suppl_file/13806_preface.pdf  
+### ✈️ Jeb's Flight Bag
 
-- 🧪 Built upon foundational work by **Walter Kohn** (Nobel Laureate, DFT)  
-  - Reference: https://doi.org/10.1142/13806  
+**iPad · Android · Web · embedded OS · desktop · mobile** — *early access*
 
----
+**A single software in every aircraft you fly.**
 
-### 🧠 Tech Stack
+International map, ADS-B (GPS) and vision-based traffic, ATC transcript, verbal checklist, charts, flight planning.
 
-**Frontend**
-- Three.js  
-- React  
-- Redux  
-- WebXR  
+A real-time Debian build for the Jetson Orin Nano. Certified hardware soon.
 
-**Backend**
-- RDKit  
-- SciPy  
-- ASE (Atomic Simulation Environment)  
-- GPAW (DFT engine)  
-- Celery  
-- Redis  
-- Docker  
-- AWS  
+| | | |
+|:-:|:-:|:-:|
+| [<img src="https://github.com/wonmor/Atomizer-Swift-Challenge/blob/bb3e156b76ce46eeed402345667d51c843f73280/Docs/appstore-badge.png" height="50">](https://apps.apple.com/us/app/jebediahs-flight-bag/id6766274262) | [**Get it on Google Play**](https://play.google.com/store/apps/details?id=com.orchestrsim.jebediah) | [**Try it as a web app**](https://orchaerospace.com/app) |
+
+Satellite terrain with weather overlay · [orchaerospace.com](https://orchaerospace.com)
 
 ---
 
-### 🎥 Demo
+### ⚛️ ElectronVisualized, Atomizer AR
 
-Watch demo walkthrough: **YouTube**  
+*2022 – 2025* · ★ Apple Swift Student Challenge, 2023
 
-![346091630_962156048139650_5797215412402448016_n](https://github.com/wonmor/wonmor/assets/35755386/b606d6ee-5c5a-482a-8c6e-b66be7aebad2)
+- Quantum mechanics visualiser built on DFT — web, iOS, macOS, visionOS. **10k downloads.** Won the 2023 Apple Swift Student Challenge.
+- Three.js, React, WebXR · RDKit, SciPy, GPAW, Celery, AWS
+- On the cover of Sir David Clary FRS's book, *Walter Kohn* ([doi.org/10.1142/13806](https://doi.org/10.1142/13806))
+- Demo: [YouTube](https://www.youtube.com/watch?v=5eT39MEA0ec)
+- Benzene — C₆H₆: electron density from DFT. The p-orbitals overlap into the π system.
 
+| | |
+|:-:|:-:|
+| [<img src="https://github.com/wonmor/Atomizer-Swift-Challenge/blob/bb3e156b76ce46eeed402345667d51c843f73280/Docs/appstore-badge.png" height="50">](https://apps.apple.com/us/app/atomizer-ar/id6449015706) | [**Visit ElectronVisual.org**](https://www.electronvisual.org) |
+
+Code: [Atomizer AR — client (iOS)](https://github.com/wonmor/Atomizer-Swift-Challenge) · [ElectronVisualized — server (web)](https://github.com/wonmor/ElectronVisualized)
+
+---
+
+### 👤 OpticALLY 3D Scan
+
+*computer vision — 3D reconstruction work*
+
+- iOS app — Swift, Objective-C++, C++ back end
+- TrueDepth scan with full point-cloud processing: ICP, pose estimation, meshing, registration
+- US patent pending (63/727,879) — aligning rough point clouds from head pose alone
+- Face scan on iPhone TrueDepth: 3D meshing and registration for head measurements and custom-fit headsets
+
+[<img src="https://github.com/wonmor/Atomizer-Swift-Challenge/blob/bb3e156b76ce46eeed402345667d51c843f73280/Docs/appstore-badge.png" height="50">](https://apps.apple.com/app/orch-3d-head-face-scan/id6468313142)
+
+---
+
+### 📐 First Principles (2025)
+
+- Calculus, error minimisation and aerodynamics taught inside a Limbo-style 2D platformer. The platforms follow the curve; the gaps follow derivative rules.
+- Interactive graphing calculator — Taylor and Maclaurin series, Riemann sums, at AP Calculus BC and AP Physics C level
+- Aerospace stages: lift vs angle of attack, drag polar, atmosphere density, phugoid mode. Localised in 14 languages.
+- Spring-mass oscillation — Hooke's law as a cosine
+
+iOS, iPadOS, macOS — Android, Windows and Linux to follow
+
+[<img src="https://github.com/wonmor/Atomizer-Swift-Challenge/blob/bb3e156b76ce46eeed402345667d51c843f73280/Docs/appstore-badge.png" height="50">](https://apps.apple.com/us/app/first-principles-2d-platformer/id6760980245) · [source on GitHub](https://github.com/rkaissi/First-Principles)
+
+*Limbo is a trademark of Playdead. This project is not affiliated with, endorsed by or sponsored by Playdead.*
+
+---
+
+### 🧠 Flight sim flown with a brain–computer interface
+
+---
+
+## work
+
+- **Founder, Orchestr Aerospace** — 2026 · [orchestrsim.com](https://orchestrsim.com)
+- **Reach Media Group — computer vision engineer** — 2025 · vision pipelines in C++ and Python; iOS and Vue systems.
+- **Seoul National University — research intern** — 2023 · molecular visualiser in Python; a GUI for AutoDock Vina.
+
+## moments
+
+- with iJustine at Apple Park
+- with my flight instructor, John Wayne Airport
+
+## school
+
+- **École de pilotage Saint-Hubert** — 2026 · private pilot licence. Cessna 152, six-pack. *CYHU*
+- **Orange County Flight Center** — 2025 · Cessna 172, Garmin G1000. *KSNA*
+- **Sunrise Aviation** — 2024 · Evektor SportStar.
+- **University of California, Irvine — aerospace engineering, dropout** — 2023
+
+---
+
+![WWDC23](https://github.com/wonmor/wonmor/assets/35755386/b606d6ee-5c5a-482a-8c6e-b66be7aebad2)
