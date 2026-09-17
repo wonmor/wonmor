@@ -7,7 +7,6 @@ creative work · aerospace
 
 - 🍎 **Apple WWDC23 scholar** — distinguished winner, at 19
 - 🇺🇸 **US O-1A visa** · 🇬🇧 **UK Global Talent visa** — work and entrepreneurship authorisations in both countries
-- ⚜️ built in Quebec
 
 **as seen in** [MobileSyrup](https://mobilesyrup.com/2023/06/05/meet-the-six-canadian-winners-of-apples-wwdc23-swift-student-challenge/) · [Halton District School Board](https://web.archive.org/web/20240530133558/https://hdsb.ca/our-board/Pages/News/News-Description.aspx?NewsID=1145)
 
