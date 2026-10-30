@@ -1,84 +1,121 @@
-# John (Wonmo) Seong
+<a href="https://johnseong.com"><img src="resources/gallery/banner.jpg" alt="John (Wonmo) Seong, CEO and founder of Orchestr Aerospace Inc" width="100%"></a>
 
-**John is the CEO and the founder of Orchestr Aerospace Inc, interested in GPS-less navigation in aviation and quantum computers.**
+<p align="center">
+  <a href="https://johnseong.com"><b>johnseong.com</b></a> &nbsp;|&nbsp;
+  <a href="https://www.orchaero.com"><b>orchaero.com</b></a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/john-seong-9194321a9/">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://www.youtube.com/channel/UC2O-C28dSgDTZcYxv9OX20w">YouTube</a> &nbsp;|&nbsp;
+  <a href="https://apps.apple.com/ca/developer/wonmo-seong/id1625011193">App Store</a> &nbsp;|&nbsp;
+  <a href="mailto:john@orchestrsim.com">john@orchestrsim.com</a>
+</p>
 
-Founder | Engineer | Pilot in training | Los Angeles metro area
+> He started by drawing what nobody can see: electron clouds, orbitals and density maps, so that a student could look at quantum mechanics instead of just reading about it. One of those density maps ended up on the cover of a Nobel laureate's biography. Today he builds computers that ride in the cockpit and look out of the window.
 
-- Apple WWDC23 Swift Student Challenge winner, invited to Apple Park, Cupertino
-- US O-1A visa | UK Global Talent visa
+<br>
 
-He started by drawing what nobody can see: electron clouds, orbitals and density maps, so that a student could look at quantum mechanics instead of just reading about it. One of those density maps ended up on the cover of a Nobel laureate's biography. Today he builds computers that ride in the cockpit and look out of the window.
+<img src="resources/gallery/sec-orchestr.jpg" alt="Orchestr Aerospace" width="100%">
 
-[johnseong.com](https://johnseong.com) | [orchaero.com](https://www.orchaero.com) | [LinkedIn](https://www.linkedin.com/in/john-seong-9194321a9/) | [YouTube](https://www.youtube.com/channel/UC2O-C28dSgDTZcYxv9OX20w) | [App Store](https://apps.apple.com/ca/developer/wonmo-seong/id1625011193) | [john@orchestrsim.com](mailto:john@orchestrsim.com)
+**"An AI computer that works in the cockpit."** Orchestr Aerospace builds dual-use avionics, for civilian and defence aviation, from offices in Irvine, California, and Montréal. A density map is a computer showing a person what it knows about a scene they cannot see; a cockpit computer does the same with traffic, terrain and weather. Orchestr's research goes one step further: working out where the aircraft is from what its cameras see, so navigation keeps working when GPS is jammed or spoofed.
 
----
+<br>
 
-## Orchestr Aerospace
+<img src="resources/gallery/sec-hardware.jpg" alt="Hardware" width="100%">
 
-*Now | since September 2025*
+### Flight Computer Mk. 1
 
-> "An AI computer that works in the cockpit."
+The artificial horizon, terrain map and on-device POH copilot in one unit: an NVIDIA Jetson Orin Nano with a stereo camera pair, a thermal camera and a software-defined radio. **CA$2,399 est. retail | est. Q2 2027 | [pre-order](https://orchaerospace.com/shop)**
 
-John founded Orchestr Aerospace in September 2025 and runs it as CEO. The company builds dual-use avionics, for civilian and defence aviation, from offices in Irvine, California, and Montréal.
+<table>
+  <tr>
+    <td width="50%"><img src="resources/gallery/fc1-enclosure.jpg" alt="Flight Computer Mk. 1 in its enclosure"><br><sub>In its enclosure on the bench</sub></td>
+    <td width="50%"><img src="resources/gallery/fc1-deepvision-traffic.jpg" alt="DeepVision synthetic vision with a traffic alert"><br><sub>DeepVision synthetic vision with a traffic alert</sub></td>
+  </tr>
+  <tr>
+    <td><img src="resources/gallery/fc1-airport-diagram.jpg" alt="Moving map with live traffic and the airport diagram"><br><sub>Live traffic callout over the airport diagram</sub></td>
+    <td><img src="resources/gallery/fc1-stereo-thermal.jpg" alt="Thermal and stereo depth cameras"><br><sub>Thermal camera and stereo depth</sub></td>
+  </tr>
+  <tr>
+    <td><img src="resources/gallery/fc1-map-pfd-split.jpg" alt="Map and PFD split view"><br><sub>Map and PFD side by side</sub></td>
+    <td><img src="resources/gallery/fc1-live-atc.jpg" alt="Live ATC on the device"><br><sub>Live ATC transcription on the device</sub></td>
+  </tr>
+  <tr>
+    <td><img src="resources/gallery/fc1-charts-ksna.jpg" alt="KSNA airport diagram"><br><sub>FAA charts: the KSNA airport diagram</sub></td>
+    <td><img src="resources/gallery/fc1-jebs-pro-link.jpg" alt="Jeb's Pro device linking with a QR code"><br><sub>Link Jeb's Pro to the device with a QR code</sub></td>
+  </tr>
+  <tr>
+    <td><img src="resources/gallery/fc1-handheld.jpg" alt="Flight Computer Mk. 1 handheld"><br><sub>The handheld prototype</sub></td>
+    <td><img src="resources/gallery/fc1-prototype-bench.jpg" alt="Prototype boards on the bench"><br><sub>Inside: the first prototype boards</sub></td>
+  </tr>
+</table>
 
-The thread from his physics work is direct. A density map is a computer showing a person what it knows about a scene they cannot see. A cockpit computer does the same with traffic, terrain and weather. Orchestr's research goes one step further: working out where the aircraft is from what its cameras see, so navigation keeps working when GPS is jammed or spoofed.
+### The rest of the line
 
-### Software
+<table>
+  <tr>
+    <td width="33%"><img src="resources/gallery/deepvision-mk1.jpg" alt="DeepVision EVS Mk. 1"><br><b>DeepVision EVS Mk. 1</b><br><sub>Thermal traffic and obstacle awareness, day or night, with laser ranging. CA$4,500 | est. Q3–Q4 2027</sub></td>
+    <td width="33%"><img src="resources/gallery/deepbci-mk1.jpg" alt="DeepBCI Mk. 1"><br><b>DeepBCI Mk. 1</b><br><sub>A 16-channel EEG board that reads the pilot's intent and moves the FMS cursor, hands on the controls. CA$2,399 | est. Q2 2027</sub></td>
+    <td width="33%"><img src="resources/gallery/deepsdr-mk1.jpg" alt="DeepSDR Mk. 1"><br><b>DeepSDR Mk. 1</b><br><sub>Wideband software-defined radio, 1 MHz to 6 GHz, receive and transmit. CA$1,299 | est. Q2 2027</sub></td>
+  </tr>
+  <tr>
+    <td><img src="resources/gallery/deepvision-thermal.jpg" alt="DeepVision thermal view"><br><sub>DeepVision: thermal view of an aircraft</sub></td>
+    <td><img src="resources/gallery/deepbci-exploded.jpg" alt="DeepBCI exploded view"><br><sub>DeepBCI, exploded</sub></td>
+    <td><img src="resources/gallery/deepsdr-exploded.jpg" alt="DeepSDR exploded view"><br><sub>DeepSDR, exploded</sub></td>
+  </tr>
+  <tr>
+    <td><img src="resources/gallery/deepvision-prototype.jpg" alt="DeepVision prototype"><br><sub>DeepVision prototype</sub></td>
+    <td><img src="resources/gallery/deepvision-board.jpg" alt="DeepVision board"><br><sub>DeepVision board</sub></td>
+    <td><img src="resources/gallery/piper-astrid.jpg" alt="Piper Astrid"><br><b>Piper Astrid</b><br><sub>The company aircraft, a sensor platform and testbed for ADS-B and computer-vision traffic detection</sub></td>
+  </tr>
+</table>
 
-- **Jeb's Horizon EFB**: an electronic flight bag for iOS, Android and Mac with DeepVision synthetic vision: moving map, approach charts, weather, flight planning and live traffic. [App Store](https://apps.apple.com/us/app/jebediahs-flight-bag/id6766274262) | [Google Play](https://play.google.com/store/apps/details?id=com.orchestrsim.jebediah)
-- **Jeb's 3D Flight Bag**: the same flight bag on 3D terrain, running in the browser with no install. [Open it](https://orchaerospace.com/jebs)
-- **Jeb's Sim Bag**: a flight bag built for simulator pilots. [Open it](https://orchaerospace.com/jebsim)
-- **Jeb's AI**: a copilot you can talk to, trained on your own aircraft's handbook. It answers from the documents it was given; the pilot in command stays responsible.
+<br>
 
-### Hardware
+<img src="resources/gallery/sec-software.jpg" alt="Software" width="100%">
 
-[![Flight Computer Mk. 1](https://johnseong.com/products/flight-computer-mk1-reel-poster.webp)](https://johnseong.com/#orchestr)
+<table>
+  <tr>
+    <td width="50%"><img src="resources/gallery/jebs-horizon-aspen.jpg" alt="Jeb's Horizon EFB"><br><b>Jeb's Horizon EFB</b><br><sub>An electronic flight bag for iOS, Android and Mac with DeepVision synthetic vision: moving map, approach charts, weather, flight planning and live traffic.</sub><br><a href="https://apps.apple.com/us/app/jebediahs-flight-bag/id6766274262">App Store</a> | <a href="https://play.google.com/store/apps/details?id=com.orchestrsim.jebediah">Google Play</a></td>
+    <td width="50%"><img src="resources/gallery/jebs-3d-aspen.jpg" alt="Jeb's 3D Flight Bag"><br><b>Jeb's 3D Flight Bag</b><br><sub>The same flight bag on 3D terrain, running in the browser with no install.</sub><br><a href="https://orchaerospace.com/jebs">Open it</a> | <a href="https://orchaerospace.com/jebsim">Jeb's Sim Bag</a></td>
+  </tr>
+  <tr>
+    <td><img src="resources/gallery/jebs-ai-poh.jpg" alt="Jeb's AI"><br><b>Jeb's AI</b><br><sub>A copilot you can talk to, trained on your own aircraft's handbook. It answers from the documents it was given; the pilot in command stays responsible.</sub></td>
+    <td><img src="resources/gallery/jebos-checklist.jpg" alt="JebediahOS checklist"><br><b>JebediahOS</b><br><sub>The same app as a real-time Debian build on the Jetson: checklists, POH, PFD and maps in the cockpit.</sub></td>
+  </tr>
+</table>
 
-| Product | What it is | Est. retail | Ships |
-|---|---|---|---|
-| **Flight Computer Mk. 1** | The artificial horizon, terrain map and on-device POH copilot in one handheld unit: an NVIDIA Jetson Orin Nano with a stereo camera pair and software-defined radio. | CA$2,399 | Est. Q2 2027 |
-| **DeepVision EVS Mk. 1** | Thermal traffic and obstacle awareness: spots other aircraft and obstacles day or night, with laser ranging. | CA$4,500 | Est. Q3–Q4 2027 |
-| **DeepBCI Mk. 1** | A 16-channel EEG board that reads the pilot's intent and moves the FMS cursor, hands on the controls. | CA$2,399 | Est. Q2 2027 |
-| **DeepSDR Mk. 1** | Wideband software-defined radio, 1 MHz to 6 GHz, receive and transmit. | CA$1,299 | Est. Q2 2027 |
-| **Piper Astrid** | The company aircraft, flown as a sensor platform and a testbed for ADS-B and computer-vision traffic detection. | | |
+<p align="center"><sub>The long-term plan is autonomous flight in general aviation, and eventually a high-altitude spaceplane that flies above the Kármán line.</sub></p>
 
-Pre-orders: [orchaerospace.com/shop](https://orchaerospace.com/shop)
+<br>
 
-### Where it is going
+<img src="resources/gallery/sec-story.jpg" alt="The story so far" width="100%">
 
-The long-term plan is autonomous flight in general aviation, and eventually a high-altitude spaceplane that flies above the Kármán line.
+<table>
+  <tr>
+    <td width="33%"><img src="resources/gallery/story-wwdc.jpg" alt="WWDC23"><br><b>June 2023 | WWDC23</b><br><sub>His Swift Student Challenge playground turned the Heisenberg uncertainty principle into something you could play with, and it won. Apple invited him to Apple Park.</sub></td>
+    <td width="33%"><img src="resources/gallery/story-kohn-cover.jpg" alt="Walter Kohn biography cover"><br><b>Seoul | Seoul National University</b><br><sub>His DFT density map of the hydrogen molecule became the cover of Sir David Clary's biography of Walter Kohn (<a href="https://doi.org/10.1142/13806">doi.org/10.1142/13806</a>).</sub></td>
+    <td width="33%"><img src="resources/gallery/story-apple-park.jpg" alt="Apple Park"><br><b>2025 | Reach, then Orchestr</b><br><sub>Software engineer at Reach, then founded Orchestr Aerospace in September and spoke at UCLA about replacing the autopilot with vision-based AI.</sub></td>
+  </tr>
+</table>
 
----
+**2022** Making quantum mechanics visible: ElectronVisualized runs real DFT and draws electron density in 3D. **2024** Machines that read people: OpticALLY 3D Scan and a flight simulator flown with a brain–computer interface; flight training begins. **2026** In the air: the apps reach the App Store and Google Play, Piper Astrid carries cameras, the team reports from Kennedy Space Center for Artemis II, and Orchestr introduces Jeb's AI. **Next:** autonomous flight in general aviation, then above the Kármán line.
 
-## The story so far
+<br>
 
-**2022 | Making quantum mechanics visible.** Entered the Breakthrough Junior Challenge with "Schrödinger's Equation & DFT in 90 Seconds", and started ElectronVisualized, a web app that runs real DFT calculations and draws electron density and molecular orbitals in 3D.
+<img src="resources/gallery/sec-projects.jpg" alt="Things he built along the way" width="100%">
 
-**June 2023 | WWDC23 in Cupertino.** His Swift Student Challenge app playground turned the Heisenberg uncertainty principle into something you could play with, and it won. MobileSyrup named him one of six Canadian winners, and Apple invited him to Apple Park for WWDC23.
+<table>
+  <tr>
+    <td width="33%"><img src="resources/gallery/proj-electronvisualized.jpg" alt="ElectronVisualized"><br><b>ElectronVisualized</b> <sub>2022 – 2025</sub><br><sub>DFT electron density, rendered in the browser.</sub><br><a href="https://electronvisual.org">electronvisual.org</a></td>
+    <td width="33%"><img src="resources/gallery/proj-atomizer.jpg" alt="Atomizer AR"><br><b>Atomizer AR</b><br><sub>His WWDC23 project: atoms and orbitals in AR on iPhone and Vision Pro.</sub><br><a href="https://apps.apple.com/us/app/atomizer-ar-quantum-chemistry/id6449015706">App Store</a> | <a href="https://www.youtube.com/watch?v=5eT39MEA0ec">YouTube</a></td>
+    <td width="33%"><img src="resources/gallery/proj-moldock.jpg" alt="MolDock"><br><b>LCBC Dock, now MolDock</b><br><sub>Protein–ligand docking in one mobile app (AutoDock Vina).</sub><br><a href="https://apps.apple.com/us/app/moldock-protein-ligand-dock/id6761741448">App Store</a></td>
+  </tr>
+  <tr>
+    <td><img src="resources/gallery/proj-bci.jpg" alt="Flight simulator with a brain-computer interface"><br><b>Flight Sim + BCI</b> <sub>2024</sub><br><sub>A simulator flown through an OpenBCI headset.</sub><br><a href="https://www.youtube.com/watch?v=F95lSwabPpE">YouTube</a></td>
+    <td><img src="resources/gallery/proj-havit.jpg" alt="HAVIT"><br><b>HAVIT</b><br><sub>A habit tracker that works like a social video app.</sub><br><a href="https://www.havit.space">havit.space</a></td>
+    <td><img src="resources/gallery/proj-debugging-reality.jpg" alt="Debugging Reality"><br><b>Debugging Reality</b> <sub>2021 – 2022</sub><br><sub>A short film with a VFX black hole and an original score.</sub><br><a href="https://www.youtube.com/watch?v=7CgN6cBOriI">Making-of</a></td>
+  </tr>
+</table>
 
-**Seoul | Research at Seoul National University.** A summer research internship turned side projects into tools: electronvisual.org, Atomizer AR, and LCBC Dock, now MolDock. His DFT density map of the hydrogen molecule became the cover art of Sir David Clary's biography of Walter Kohn ([doi.org/10.1142/13806](https://doi.org/10.1142/13806)).
+**OpticALLY 3D Scan** (2024 – 2025): "Scan 3D only using an iPhone." TrueDepth point clouds to a measured 3D head model with pose estimation, ICP registration and meshing. US patent pending (63/727,879). [App Store](https://apps.apple.com/us/app/optically-3d-scan/id6468313142) | [YouTube](https://www.youtube.com/watch?v=LqiZKoXhtDA)
 
-**2024 | Machines that read people.** OpticALLY 3D Scan builds a 3D head model from an iPhone's TrueDepth camera. He flew a flight simulator through an OpenBCI brain–computer interface, and started flight training.
-
-**2025 | Reach, then Orchestr.** Software engineer at Reach, building a TrueDepth face-scanning app. In September he founded Orchestr Aerospace, and in December he spoke at UCLA's Global Entrepreneurship Society about replacing the autopilot with vision-based AI.
-
-**2026 | In the air.** Orchestr's apps reached the App Store and Google Play, the company aircraft Piper Astrid started carrying cameras, and the team reported from Kennedy Space Center for the Artemis II launch. In October 2026 Orchestr introduced Jeb's AI.
-
-**Next.** Autonomous flight in general aviation, then above the Kármán line.
-
----
-
-## Things he built along the way
-
-- **ElectronVisualized and Atomizer AR** (2022 – 2025) | Web, iOS, macOS, visionOS, DFT. A 3D atomic and molecular orbital visualizer: ElectronVisualized computes electron density with density functional theory in the browser; Atomizer AR, his WWDC23 Swift Student Challenge project, puts atoms and orbitals in augmented reality. [electronvisual.org](https://electronvisual.org) | [Atomizer AR](https://apps.apple.com/us/app/atomizer-ar-quantum-chemistry/id6449015706) | [YouTube](https://www.youtube.com/watch?v=5eT39MEA0ec)
-- **OpticALLY 3D Scan** (2024 – 2025) | iOS, TrueDepth, C++. "Scan 3D only using an iPhone." Pose estimation, ICP registration and meshing, exported as OBJ. US patent pending (63/727,879). [App Store](https://apps.apple.com/us/app/optically-3d-scan/id6468313142) | [YouTube](https://www.youtube.com/watch?v=LqiZKoXhtDA)
-- **Flight Simulator + Brain–Computer Interface** (2024) | OpenBCI, EEG. A flight simulator flown through an OpenBCI headset; Orchestr's DeepBCI takes the idea into the cockpit. [YouTube](https://www.youtube.com/watch?v=F95lSwabPpE) | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:7262324478032949248/)
-- **LCBC Dock, now MolDock** | iOS, Android, AutoDock Vina. Protein–ligand docking tools brought into a single mobile app. [App Store](https://apps.apple.com/us/app/moldock-protein-ligand-dock/id6761741448)
-- **HAVIT** | A habit tracker that works like a social video app: you keep a habit by posting it. [havit.space](https://www.havit.space)
-- **Redoo Hub** | A short-video platform for AR and VR headsets, built with William Zhang and Bryan Zhao.
-- **Debugging Reality** (2021 – 2022) | A short film with a visual-effects black hole and an original score, both his own. [Making-of](https://www.youtube.com/watch?v=7CgN6cBOriI)
-- **Also on the App Store**: [Electronify](https://apps.apple.com/us/app/electronify-electron-orbitals/id6446613861), [Orch-OR Visualizer](https://apps.apple.com/us/app/orch-or-visualizer/id6819059305), [Orch A320 Guide](https://apps.apple.com/us/app/orch-a320-guide/id6761716273), [First Principles](https://apps.apple.com/us/app/first-principles-2d-platformer/id6760980245), [BlackHole](https://play.google.com/store/apps/details?id=com.johnseong.blackhole) | [All apps](https://apps.apple.com/ca/developer/wonmo-seong/id1625011193)
-
----
-
-![WWDC23](https://github.com/wonmor/wonmor/assets/35755386/b606d6ee-5c5a-482a-8c6e-b66be7aebad2)
+**Also on the App Store:** [Electronify](https://apps.apple.com/us/app/electronify-electron-orbitals/id6446613861) | [Orch-OR Visualizer](https://apps.apple.com/us/app/orch-or-visualizer/id6819059305) | [Orch A320 Guide](https://apps.apple.com/us/app/orch-a320-guide/id6761716273) | [First Principles](https://apps.apple.com/us/app/first-principles-2d-platformer/id6760980245) | [BlackHole](https://play.google.com/store/apps/details?id=com.johnseong.blackhole) | [All apps](https://apps.apple.com/ca/developer/wonmo-seong/id1625011193)
