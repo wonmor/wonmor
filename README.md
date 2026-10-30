@@ -58,8 +58,8 @@ The artificial horizon, terrain map and on-device POH copilot in one unit: an NV
   </tr>
   <tr>
     <td><img src="resources/gallery/deepvision-thermal.jpg" alt="DeepVision thermal view"><br><sub>DeepVision: thermal view of an aircraft</sub></td>
-    <td><img src="resources/gallery/deepbci-exploded.jpg" alt="DeepBCI exploded view"><br><sub>DeepBCI, exploded</sub></td>
-    <td><img src="resources/gallery/deepsdr-exploded.jpg" alt="DeepSDR exploded view"><br><sub>DeepSDR, exploded</sub></td>
+    <td><img src="resources/gallery/deepbci-expanded.jpg" alt="DeepBCI expanded view"><br><sub>DeepBCI, expanded</sub></td>
+    <td><img src="resources/gallery/deepsdr-expanded.jpg" alt="DeepSDR expanded view"><br><sub>DeepSDR, expanded</sub></td>
   </tr>
   <tr>
     <td><img src="resources/gallery/deepvision-prototype.jpg" alt="DeepVision prototype"><br><sub>DeepVision prototype</sub></td>
