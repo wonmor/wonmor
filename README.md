@@ -101,7 +101,7 @@ The artificial horizon, terrain map and on-device POH copilot in one unit: an NV
 
 <br>
 
-<img src="resources/gallery/sec-projects.jpg" alt="Things he built along the way" width="100%">
+<img src="resources/gallery/sec-projects.jpg" alt="Things John built along the way" width="100%">
 
 <table>
   <tr>
