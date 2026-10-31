@@ -63,7 +63,6 @@ The artificial horizon, terrain map and on-device POH copilot in one unit: an NV
   </tr>
   <tr>
     <td><img src="resources/gallery/deepvision-prototype.jpg" alt="DeepVision prototype"><br><sub>DeepVision prototype</sub></td>
-    <td><img src="resources/gallery/deepvision-board.jpg" alt="DeepVision board"><br><sub>DeepVision board</sub></td>
     <td><img src="resources/gallery/piper-astrid.jpg" alt="Piper Astrid"><br><b>Piper Astrid</b><br><sub>The company aircraft, a sensor platform and testbed for ADS-B and computer-vision traffic detection</sub></td>
   </tr>
 </table>
