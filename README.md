@@ -73,8 +73,20 @@ The artificial horizon, terrain map and on-device POH copilot in one unit: an NV
 
 <table>
   <tr>
-    <td width="50%"><img src="resources/gallery/jebs-horizon-aspen.jpg" alt="Jeb's Horizon EFB"><br><b>Jeb's Horizon EFB</b><br><sub>An electronic flight bag for iOS, Android and Mac with DeepVision synthetic vision: moving map, approach charts, weather, flight planning and live traffic.</sub><br><a href="https://apps.apple.com/us/app/jebediahs-flight-bag/id6766274262">App Store</a> | <a href="https://play.google.com/store/apps/details?id=com.orchestrsim.jebediah">Google Play</a></td>
+    <td width="50%"><img src="resources/gallery/jebs-horizon-aspen.jpg" alt="Jeb's Horizon EFB on the approach into Palm Springs"><br><b>Jeb's Horizon EFB</b><br><sub>An electronic flight bag for iOS, Android and Mac with DeepVision synthetic vision: moving map, approach charts, weather, flight planning and live traffic.</sub><br><a href="https://apps.apple.com/us/app/jebediahs-flight-bag/id6766274262">App Store</a> | <a href="https://play.google.com/store/apps/details?id=com.orchestrsim.jebediah">Google Play</a></td>
     <td width="50%"><img src="resources/gallery/jebs-3d-aspen.jpg" alt="Jeb's 3D Flight Bag"><br><b>Jeb's 3D Flight Bag</b><br><sub>The same flight bag on 3D terrain, running in the browser with no install.</sub><br><a href="https://orchaerospace.com/jebs">Open it</a> | <a href="https://orchaerospace.com/jebsim">Jeb's Sim Bag</a></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <table>
+        <tr>
+          <td width="25%"><img src="resources/gallery/jebs-horizon-lineup.jpg" alt="Jeb's Horizon EFB lined up on the runway"><br><sub>Lined up on the runway</sub></td>
+          <td width="25%"><img src="resources/gallery/jebs-horizon-takeoff.jpg" alt="Jeb's Horizon EFB on the takeoff roll"><br><sub>Takeoff roll</sub></td>
+          <td width="25%"><img src="resources/gallery/jebs-horizon-taxi-clearance.jpg" alt="Jeb's Horizon EFB taxi clearance guidance at KSNA"><br><sub>Taxi clearance, typed as ATC said it</sub></td>
+          <td width="25%"><img src="resources/gallery/jebs-horizon-taxi-path.jpg" alt="Jeb's Horizon EFB magenta taxi path in synthetic vision"><br><sub>The taxi path in synthetic vision</sub></td>
+        </tr>
+      </table>
+    </td>
   </tr>
   <tr>
     <td><img src="resources/gallery/jebs-ai-poh.jpg" alt="Jeb's AI"><br><b>Jeb's AI</b><br><sub>A copilot you can talk to, trained on your own aircraft's handbook. It answers from the documents it was given; the pilot in command stays responsible.</sub></td>
