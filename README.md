@@ -92,7 +92,7 @@ The artificial horizon, terrain map and on-device POH copilot in one unit: an NV
 <table>
   <tr>
     <td width="33%"><img src="resources/gallery/story-wwdc.jpg" alt="WWDC23"><br><b>June 2023 | WWDC23</b><br><sub>His Swift Student Challenge playground turned the Heisenberg uncertainty principle into something you could play with, and it won. Apple invited him to Apple Park.</sub></td>
-    <td width="33%"><img src="resources/gallery/story-kohn-cover.jpg" alt="Walter Kohn biography cover"><br><b>Seoul | Seoul National University</b><br><sub>His DFT density map of the hydrogen molecule became the cover of Sir David Clary's biography of Walter Kohn (<a href="https://doi.org/10.1142/13806">doi.org/10.1142/13806</a>).</sub></td>
+    <td width="33%"><img src="resources/gallery/story-kohn-cover.jpg" alt="Walter Kohn biography cover"><br><b>July 2023 | Seoul National University</b><br><sub>Undergraduate Research</sub><br><sub>His DFT density map of the hydrogen molecule became the cover of Sir David Clary's biography of Walter Kohn (<a href="https://doi.org/10.1142/13806">doi.org/10.1142/13806</a>).</sub></td>
     <td width="33%"><img src="resources/gallery/story-apple-park.jpg" alt="Apple Park"><br><b>2025 | Reach, then Orchestr</b><br><sub>Software engineer at Reach, then founded Orchestr Aerospace in September and spoke at UCLA about replacing the autopilot with vision-based AI.</sub></td>
   </tr>
 </table>
@@ -119,3 +119,7 @@ The artificial horizon, terrain map and on-device POH copilot in one unit: an NV
 **OpticALLY 3D Scan** (2024 – 2025): "Scan 3D only using an iPhone." TrueDepth point clouds to a measured 3D head model with pose estimation, ICP registration and meshing. US patent pending (63/727,879). [App Store](https://apps.apple.com/us/app/optically-3d-scan/id6468313142) | [YouTube](https://www.youtube.com/watch?v=LqiZKoXhtDA)
 
 **Also on the App Store:** [Electronify](https://apps.apple.com/us/app/electronify-electron-orbitals/id6446613861) | [Orch-OR Visualizer](https://apps.apple.com/us/app/orch-or-visualizer/id6819059305) | [Orch A320 Guide](https://apps.apple.com/us/app/orch-a320-guide/id6761716273) | [First Principles](https://apps.apple.com/us/app/first-principles-2d-platformer/id6760980245) | [BlackHole](https://play.google.com/store/apps/details?id=com.johnseong.blackhole) | [All apps](https://apps.apple.com/ca/developer/wonmo-seong/id1625011193)
+
+<br>
+
+<sub>Education: University of California, Irvine, undeclared undergraduate program (dropped out).</sub>
