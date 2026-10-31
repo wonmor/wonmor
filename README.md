@@ -80,10 +80,11 @@ The artificial horizon, terrain map and on-device POH copilot in one unit: an NV
     <td colspan="2">
       <table>
         <tr>
-          <td width="25%"><img src="resources/gallery/jebs-horizon-lineup.jpg" alt="Jeb's Horizon EFB lined up on the runway"><br><sub>Lined up on the runway</sub></td>
-          <td width="25%"><img src="resources/gallery/jebs-horizon-takeoff.jpg" alt="Jeb's Horizon EFB on the takeoff roll"><br><sub>Takeoff roll</sub></td>
-          <td width="25%"><img src="resources/gallery/jebs-horizon-taxi-clearance.jpg" alt="Jeb's Horizon EFB taxi clearance guidance at KSNA"><br><sub>Taxi clearance, typed as ATC said it</sub></td>
-          <td width="25%"><img src="resources/gallery/jebs-horizon-taxi-path.jpg" alt="Jeb's Horizon EFB magenta taxi path in synthetic vision"><br><sub>The taxi path in synthetic vision</sub></td>
+          <td width="20%"><img src="resources/gallery/jebs-horizon-lineup.jpg" alt="Jeb's Horizon EFB lined up on the runway"><br><sub>Lined up on the runway</sub></td>
+          <td width="20%"><img src="resources/gallery/jebs-horizon-takeoff.jpg" alt="Jeb's Horizon EFB on the takeoff roll"><br><sub>Takeoff roll</sub></td>
+          <td width="20%"><img src="resources/gallery/jebs-horizon-taxi-clearance.jpg" alt="Jeb's Horizon EFB taxi clearance guidance at KSNA"><br><sub>Taxi clearance, typed as ATC said it</sub></td>
+          <td width="20%"><img src="resources/gallery/jebs-horizon-taxi-path.jpg" alt="Jeb's Horizon EFB magenta taxi path in synthetic vision"><br><sub>The taxi path in synthetic vision</sub></td>
+          <td width="20%"><img src="resources/gallery/jebs-horizon-taxi-3d.jpg" alt="Jeb's Horizon EFB taxi path on the 3D map at KSNA"><br><sub>The same path on the 3D map</sub></td>
         </tr>
       </table>
     </td>
