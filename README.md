@@ -118,7 +118,7 @@ The artificial horizon, terrain map and on-device POH copilot in one unit: an NV
 <table>
   <tr>
     <td width="33%"><img src="resources/gallery/proj-electronvisualized.jpg" alt="ElectronVisualized"><br><b>ElectronVisualized</b> <sub>2022 – 2025</sub><br><sub>DFT electron density, rendered in the browser.</sub><br><a href="https://electronvisual.org">electronvisual.org</a></td>
-    <td width="33%"><img src="resources/gallery/proj-atomizer.jpg" alt="Atomizer AR"><br><b>Atomizer AR</b><br><sub>His WWDC23 project: atoms and orbitals in AR on iPhone and Vision Pro, and a molecule workbench on Mac.</sub><br><a href="https://apps.apple.com/us/app/atomizer-ar-quantum-chemistry/id6449015706">App Store</a> | <a href="https://www.youtube.com/watch?v=5eT39MEA0ec">YouTube</a></td>
+    <td width="33%"><img src="resources/gallery/proj-atomizer.jpg" alt="Atomizer AR: the hydrogen 3d z² orbital as a probability dot cloud"><br><b>Atomizer AR</b><br><sub>His WWDC23 project: atoms and orbitals in AR on iPhone and Vision Pro, and a molecule workbench on Mac.</sub><br><a href="https://apps.apple.com/us/app/atomizer-ar-quantum-chemistry/id6449015706">App Store</a> | <a href="https://www.youtube.com/watch?v=5eT39MEA0ec">YouTube</a></td>
     <td width="33%"><img src="resources/gallery/proj-moldock.jpg" alt="MolDock"><br><b>LCBC Dock, now MolDock</b><br><sub>Protein–ligand docking in one mobile app (AutoDock Vina).</sub><br><a href="https://apps.apple.com/us/app/moldock-protein-ligand-dock/id6761741448">App Store</a></td>
   </tr>
   <tr>
